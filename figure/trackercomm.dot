@@ -1,0 +1,20 @@
+
+digraph trackercomm {
+
+  # Intialization of graph attributes
+  graph [align   = center,
+         layout  = dot,
+         rankdir = LR,
+         dpi     = 400]
+
+  # Initialization of node attributes
+  node [shape = box,
+        fontsize = 10,
+        margin = 0.001]
+
+    " Computer "      -> " USB to RS-232 " [dir="both",label="4"];
+    " Power cable "   -> " Control box "   [dir="both",label="1"];
+    " USB to RS-232 " -> " Control box "   [dir="both",label="3"];
+    " Control box "   -> " Tracker "       [dir="both",label="2"]; 
+}
+

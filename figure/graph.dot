@@ -1,0 +1,22 @@
+
+digraph trackercon {
+
+  # Intialization of graph attributes
+  graph [align   = center,
+         layout  = dot,
+         rankdir = LR,
+         dpi     = 400]
+
+  # Initialization of node attributes
+  node [shape = box,
+        fontsize = 10,
+        margin = 0.001]
+
+    " Computer " -> " USB to RS-232 " -> " Power brick " -> " microcontroler " [dir="both"]
+
+    subgraph cluster { label="Tracker assembly"
+        " microcontroler " -> motors
+    }
+
+}
+

@@ -1,0 +1,32 @@
+---
+title:           "Εγχειρίδιο λειτουργίας ηλιοστάτη."
+author:          "Νάτσης Αθανάσιος"
+date:            "`r Sys.Date()`"
+site:            bookdown::bookdown_site
+output:          bookdown::gitbook
+# documentclass:  book
+documentclass:   article
+classoption:     [a4paper,twoside,titlepage,12pt]
+#bibliography:    [bib/thesis.bib]
+#biblio-style:    apalike
+link-citations:  yes
+colorlinks:      yes
+# description:    "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+lot: true
+lof: true
+# always_allow_html: yes
+# output:         bookdown::word_document2
+---
+
+<!-- enable caching globally -->
+```{r setup, include=FALSE}
+require(knitr)
+# opts_chunk$set(cache = TRUE)
+opts_chunk$set(out.width = '80%', fig.align = 'center')
+```
+
+
+<!-- _output.yml ouput build instructions -->
+<!-- **use build all from Rstudio** -->
+<!-- To compile this example to PDF, you need to install XeLaTeX. -->
+

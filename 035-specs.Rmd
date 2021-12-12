@@ -1,0 +1,27 @@
+
+# Ηλεκτρικά - Μηχανικά Χαρακτηριστικά.
+
+## Κινητήρες tracker (57SH56-4AM)
+
+```{r spmspec, out.width=".94\\linewidth", include=TRUE, echo=FALSE }
+system("convert -density 300 ./files/57SH56-4AM_400_STEP.pdf -crop 2300x3390+100+70 -quality 100 ./files/57SH56-4AM_400_STEP.png")
+knitr::include_graphics('./files/57SH56-4AM_400_STEP.png')
+```
+
+
+## Κινητήρες filter wheel (G11)
+
+
+```{r fwspec, out.width="1\\linewidth", include=TRUE, echo=FALSE}
+system("convert -density 300 ./files/FWmotor.pdf -crop 2250x3220+120+100 -quality 100 ./files/FWmotor.png")
+knitr::include_graphics('./files/FWmotor.png')
+```
+
+```{r fwwire, out.width="1\\linewidth", include=TRUE, echo=FALSE}
+system("convert -density 300 ./files/FWmotor_wiring.pdf -crop 2320x3240+80+70 -quality 100 ./files/FWmotor_wiring.png")
+knitr::include_graphics('./files/FWmotor_wiring.png')
+```
+
+## Τροφοδοσία ισχύος
+
+Το τροφοδοτικό του tracker παρέχει συνεχή διαφορά δυναμικού $19-20\ V$. Για την ώρα δεν γνωρίζουμε την δυνατότητα σε ισχύ της συσκευής ούτε φυσικά και το μέγιστο ηλεκτρικό ρεύμα που μπορεί να παρέχει.
