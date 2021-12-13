@@ -101,7 +101,7 @@ pause(time_delay)
 [answer, bytes, msg_err] = fscanf(Tracker.SerialPort);
 ```
 
-Με τις παραπάνω εντολές, ο Tracker θα απαντήσει με την θέση σε βήματα του Αζιμούθιου άξονα (πχ AZ:6000<cr>) στην μεταβλητή `answer`, τον αριθμό των bytes που στάλθηκαν (8 στην συγκεκριμένη περίπτωση) στην μεταβλητή `bytes` και τυχόν μηνύματα σφάλματος κατά την σειριακή επικοινωνία στην μεταβλητή `msg_err`. Άλλες χρήσιμες εντολές και παράμετροι για τον έλεγχο και την ορθή επικοινωνία με τον Tracker είναι η `Tracker.SerialPort.BytesAvailable`, η οποία επιστρέφει τον αριθμό των bytes που υπάρχουν διαθέσιμα στον buffer του microcontroller, η `flushinput(Tracker.SerialPort)` και η `flushoutput(Tracker.SerialPort)` που αδείαζουν τον Input και Output buffer αντίστοιχα.
+Με τις παραπάνω εντολές, ο Tracker θα απαντήσει με την θέση σε βήματα του Αζιμούθιου άξονα (πχ AZ:6000<cr>) στην μεταβλητή `answer`, τον αριθμό των bytes που στάλθηκαν (8 στην συγκεκριμένη περίπτωση) στην μεταβλητή `bytes` και τυχόν μηνύματα σφάλματος κατά την σειριακή επικοινωνία στην μεταβλητή `msg_err`. Άλλες χρήσιμες εντολές και παράμετροι για τον έλεγχο και την ορθή επικοινωνία με τον Tracker είναι η `Tracker.SerialPort.BytesAvailable`, η οποία επιστρέφει τον αριθμό των bytes που υπάρχουν διαθέσιμα στον buffer του microcontroller, η `flushinput(Tracker.SerialPort)` και η `flushoutput(Tracker.SerialPort)` που αδειάζουν τον Input και Output buffer αντίστοιχα.
 
 
 
