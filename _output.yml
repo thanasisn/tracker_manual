@@ -31,14 +31,8 @@ bookdown::gitbook:
   keep_tex:          false
   keep_md:           false
   number_sections:   false
-    #download: [["Aerosols.pdf", "PDF"]]
-    #~ download: [["Aerosols.pdf", "PDF"], ["Aerosols.epub", "EPUB"]]
+  download:        ["pdf"]
+  #download: [["Aerosols.pdf", "PDF"], ["Aerosols.epub", "EPUB"]]
 
 bookdown::word_document2: default
 
-
-
-# bookdown::gitbook:
-#   config:
-#     number_sections: false
-#     download:        ["pdf","docx"]
