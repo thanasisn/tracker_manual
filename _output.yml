@@ -10,6 +10,8 @@ bookdown::pdf_book:
   keep_md:          false
 
 bookdown::gitbook:
+  includes:
+    in_header: google_tracker.html
   css: style.css
   config:
     toc:
