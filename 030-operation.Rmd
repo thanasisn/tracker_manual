@@ -243,7 +243,7 @@ bind   ...
 
 ```{r spmspec, out.width=".94\\linewidth", include=TRUE, echo=FALSE }
 system("convert -density 300 ./files/57SH56-4AM_400_STEP.pdf -crop 2300x3390+100+70 -quality 100 ./files/57SH56-4AM_400_STEP.png")
-knitr::include_graphics('./files/58SH56-4AM_400_STEP.png')
+knitr::include_graphics("./files/57SH56-4AM_400_STEP.png")
 ```
 
 
