@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.4.2)  30 SEP 2022 15:57
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.4.2)  30 SEP 2022 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1151,50 +1151,50 @@ LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/n' will be
 
 [3]
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/it' will be
-(Font)              scaled to size 12.04506pt on input line 304.
+(Font)              scaled to size 12.04506pt on input line 301.
 
-Underfull \hbox (badness 2932) in paragraph at lines 304--305
+Underfull \hbox (badness 2932) in paragraph at lines 301--302
 []\TU/LinuxLibertineO(0)/b/it/10.95 Σημείωση: \TU/LinuxLibertineO(0)/b/n/10.95 
 Ο πηγαίος κώδικας (source code) που παρατίθεται εδώ είναι ένα
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 304--305
+Underfull \hbox (badness 2080) in paragraph at lines 301--302
 \TU/LinuxLibertineO(0)/b/n/10.95 παράδειγμα εφαρμογής κάποιων τεχνικών. Σε περί
 πτωση που θέλετε να τον
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
 
 [5]
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 328.
+(Font)              scaled to size 13.20007pt on input line 325.
 
-Underfull \hbox (badness 2941) in paragraph at lines 334--335
+Underfull \hbox (badness 2941) in paragraph at lines 331--332
 []\TU/LinuxLibertineO(0)/m/n/10.95 Και οι δύο κάθετοι άξονες (αζιμούθιου και ζε
 νίθ) έχουν τις ίδιες δυνατότητες και
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 334--335
+Underfull \hbox (badness 1122) in paragraph at lines 331--332
 \TU/LinuxLibertineO(0)/m/n/10.95 χαρακτηριστικά μεταξύ τους, η λειτουργία τους 
 είναι πανομοιότυπη και μπορούν να
  []
@@ -1203,13 +1203,13 @@ File: ../../Aerosols/Photos/EL/20160615_Tracker2/20160615_125806.jpg Graphic fi
 le (type bmp)
 <../../Aerosols/Photos/EL/20160615_Tracker2/20160615_125806.jpg>
 Package hyperref Info: bookmark level for unknown img defaults to 0 on input li
-ne 349.
+ne 346.
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
-(Font)              scaled to size 9.90005pt on input line 349.
+(Font)              scaled to size 9.90005pt on input line 346.
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/n' will be
-(Font)              scaled to size 9.90005pt on input line 349.
+(Font)              scaled to size 9.90005pt on input line 346.
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/it' will be
-(Font)              scaled to size 9.90005pt on input line 349.
+(Font)              scaled to size 9.90005pt on input line 346.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1218,31 +1218,31 @@ File: figure/trackercon.png Graphic file (type bmp)
 <figure/trackercon.png>
 [7]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 378.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 375.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [8]
-Underfull \hbox (badness 2134) in paragraph at lines 421--422
+Underfull \hbox (badness 2134) in paragraph at lines 418--419
 \TU/LinuxLibertineO(0)/m/n/10.95 κατά την σειριακή επικοινωνία στην μεταβλητή \
 TU/lmtt/m/n/10.95 msg_err\TU/LinuxLibertineO(0)/m/n/10.95 . Άλλες χρήσιμες εντο
 λές
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 421--422
+Underfull \hbox (badness 2913) in paragraph at lines 418--419
 \TU/LinuxLibertineO(0)/m/n/10.95 και παράμετροι για τον έλεγχο και την ορθή επι
 κοινωνία με τον Tracker είναι η
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 421--422
+Underfull \hbox (badness 2205) in paragraph at lines 418--419
 \TU/lmtt/m/n/10.95 Tracker.SerialPort.BytesAvailable\TU/LinuxLibertineO(0)/m/n/
 10.95 , η οποία επιστρέφει τον αριθμό των bytes που
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 421--422
+Underfull \hbox (badness 1694) in paragraph at lines 418--419
 \TU/LinuxLibertineO(0)/m/n/10.95 και η \TU/lmtt/m/n/10.95 flushoutput(Tracker.S
 erialPort) \TU/LinuxLibertineO(0)/m/n/10.95 που αδειάζουν τον Input και Output 
 buffer
@@ -1251,13 +1251,13 @@ buffer
 File: figure/trackercomm.png Graphic file (type bmp)
 <figure/trackercomm.png>
 [9]
-Underfull \hbox (badness 1292) in paragraph at lines 458--460
+Underfull \hbox (badness 1292) in paragraph at lines 455--457
 []\TU/LinuxLibertineO(0)/m/n/10.95 Εάν το βήμα γίνει ακατάλληλο και ο tracker π
 εριστρέφεται ασταμάτητα, μπορεί να
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 461--464
+Underfull \hbox (badness 3128) in paragraph at lines 458--461
 \TU/LinuxLibertineO(0)/m/n/10.95 του ηλιοστάτη (ορθογώνιο παραλληλόγραμμο καπάκ
 ι) η αντίσταση των κινητήρων
  []
@@ -1266,40 +1266,40 @@ Underfull \hbox (badness 3128) in paragraph at lines 461--464
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [10]
-Underfull \hbox (badness 1178) in paragraph at lines 493--494
+Underfull \hbox (badness 1178) in paragraph at lines 490--491
 \TU/LinuxLibertineO(0)/m/n/10.95 Η επικοινωνία με τον microcontroller του track
 er γίνεται με εντολές που στέλνονται
  []
 
 
-Underfull \hbox (badness 4328) in paragraph at lines 497--498
+Underfull \hbox (badness 4328) in paragraph at lines 494--495
 []\TU/LinuxLibertineO(0)/m/n/10.95 Αντίστοιχα, οι εντολές που αφορούν ταχύτητες
  έχουν την ίδια λογική μόνο που
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 499--500
+Underfull \hbox (badness 1412) in paragraph at lines 496--497
 []\TU/LinuxLibertineO(0)/b/n/10.95 Προσοχή: \TU/LinuxLibertineO(0)/m/n/10.95 Η 
 απάντηση κάθε εντολής (ανάλογα και με τις ρυθμίσεις της σειριακής
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 504--508
+Underfull \hbox (badness 1117) in paragraph at lines 501--505
 \TU/LinuxLibertineO(0)/m/n/10.95 εντολής ο tracker επιστρέφει τη διαφορά στη θέ
 ση από τον προηγούμενο μηδενισμό.
  []
 
 [11]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <9> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 536.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 533.
 
-Underfull \hbox (badness 1038) in paragraph at lines 547--548
+Underfull \hbox (badness 1038) in paragraph at lines 544--545
 \TU/LinuxLibertineO(0)/m/n/10.95 Η εντολές για την κίνηση των αξόνων έχουν τρία
  μέρη και έχουν τη γενική μορφή:
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 547--548
+Underfull \hbox (badness 1337) in paragraph at lines 544--545
 \TU/lmtt/b/n/10.95 xx@####<cr>\TU/LinuxLibertineO(0)/m/n/10.95 . Η εξήγηση των 
 επιμέρους στοιχείων γίνεται στον Πίνακα [][]2.3[][] και [][]2.4[][].
  []
@@ -1326,13 +1326,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [18] [19]
-Underfull \hbox (badness 1132) in paragraph at lines 765--766
+Underfull \hbox (badness 1132) in paragraph at lines 762--763
 \TU/LinuxLibertineO(0)/m/n/10.95 Είναι αναγκαίο το επίπεδο τις συσκευής να είνα
 ι απολύτως οριζόντιο, αλλά και να
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 765--766
+Underfull \hbox (badness 1354) in paragraph at lines 762--763
 \TU/LinuxLibertineO(0)/m/n/10.95 διατηρείται κατά τη λειτουργία του συστήματος 
 tracker-οργάνου. Γι’ αυτό η βάση,
  []
@@ -1348,22 +1348,22 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [21] [22]
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/it' will be
-(Font)              scaled to size 12.04506pt on input line 892.
+(Font)              scaled to size 12.04506pt on input line 889.
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 902--905
+Underfull \hbox (badness 10000) in paragraph at lines 899--902
 \TU/LinuxLibertineO(0)/m/n/10.95 Το πρόγραμμα (\TU/LinuxLibertineO(0)/b/n/10.95
  protek506_measurments.py\TU/LinuxLibertineO(0)/m/n/10.95 ) παίρνει μετρήσεις τ
 ης αντίστασης -
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 902--905
+Underfull \hbox (badness 1163) in paragraph at lines 899--902
 \TU/LinuxLibertineO(0)/m/n/10.95 θερμοκρασίας του CHP1 και μπορεί να εκτελεστεί
  με όμοιο τρόπο με το πρόγραμμα
  []
 
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
-(Font)              scaled to size 6.60004pt on input line 943.
+(Font)              scaled to size 6.60004pt on input line 940.
 [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1401,7 +1401,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [36]
-Overfull \hbox (271.1641pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (271.1641pt too wide) in paragraph at lines 3223--3223
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]=='P') && (ReceiveFIFO[2
 ]=='O') && (ReceiveFIFO[3]=='T') && (ReceiveFIFO[4]=='S') )  || ( (ReceiveFIFO[
 1]=='p') && (ReceiveFIFO[2]=='o') && (ReceiveFIFO[3]=='t') && (ReceiveFIFO[4]==
@@ -1412,7 +1412,7 @@ Overfull \hbox (271.1641pt too wide) in paragraph at lines 3226--3226
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [37]
-Overfull \hbox (427.2781pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (427.2781pt too wide) in paragraph at lines 3223--3223
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]=='G') && (ReceiveFIFO[2
 ]=='U') && (ReceiveFIFO[3]=='B') && (ReceiveFIFO[4]=='E') && (ReceiveFIFO[5]=='
 D') ) || ( (ReceiveFIFO[1]=='g') && (ReceiveFIFO[2]=='u') && (ReceiveFIFO[3]=='
@@ -1420,28 +1420,28 @@ b') && (ReceiveFIFO[4]=='e') && (ReceiveFIFO[5]=='d') ) )[]
  []
 
 
-Overfull \hbox (32.21404pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (32.21404pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[3]=='=') && (ReceiveFIFO
 [4]=='A') && (ReceiveFIFO[5]=='S') ) {SpeedA=ReceiveNumber;My_EE_Write(SpeedA_M
 em,SpeedA);}[] 
  []
 
 
-Overfull \hbox (32.21404pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (32.21404pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[3]=='=') && (ReceiveFIFO
 [4]=='Z') && (ReceiveFIFO[5]=='S') ) {SpeedZ=ReceiveNumber;My_EE_Write(SpeedZ_M
 em,SpeedZ);}[] 
  []
 
 
-Overfull \hbox (32.21404pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (32.21404pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[3]=='=') && (ReceiveFIFO
 [4]=='F') && (ReceiveFIFO[5]=='S') ) {SpeedF=ReceiveNumber;My_EE_Write(SpeedF_M
 em,SpeedF);}[] 
  []
 
 
-Overfull \hbox (267.97809pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (267.97809pt too wide) in paragraph at lines 3223--3223
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]>='0') && (ReceiveFIFO[2
 ]>='0') && (ReceiveFIFO[3]>='0') && (ReceiveFIFO[4]>='0') ) && ( (ReceiveFIFO[1
 ]<='9') && (ReceiveFIFO[2]<='9') && (ReceiveFIFO[3]<='9') && (ReceiveFIFO[4]<='
@@ -1449,112 +1449,112 @@ Overfull \hbox (267.97809pt too wide) in paragraph at lines 3226--3226
  []
 
 
-Overfull \hbox (51.33003pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (51.33003pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='A') ) {AZtarget=ReceiveNumber;OKpending=1;Moving
 =1;GoToTargetA=1;}[] 
  []
 
 
-Overfull \hbox (51.33003pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (51.33003pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='E') && (ReceiveFIFO[7]=='Z') ) {ZEtarget=ReceiveNumber;OKpending=1;Moving
 =1;GoToTargetZ=1;}[] 
  []
 
 
-Overfull \hbox (51.33003pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (51.33003pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='R') && (ReceiveFIFO[7]=='F') ) {FRtarget=ReceiveNumber;OKpending=1;Moving
 =1;GoToTargetF=1;}[] 
  []
 
 
-Overfull \hbox (60.88803pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (60.88803pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='+') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='A') ) {AZtarget=AZ+ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetA=1;}[] 
  []
 
 
-Overfull \hbox (60.88803pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (60.88803pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='+') && (ReceiveFIFO
 [6]=='E') && (ReceiveFIFO[7]=='Z') ) {ZEtarget=ZE+ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetZ=1;}[] 
  []
 
 
-Overfull \hbox (60.88803pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (60.88803pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='+') && (ReceiveFIFO
 [6]=='R') && (ReceiveFIFO[7]=='F') ) {FRtarget=FR+ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetF=1;}[] 
  []
 
 
-Overfull \hbox (60.88802pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (60.88802pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='-') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='A') ) {AZtarget=AZ-ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetA=1;}[] 
  []
 
 
-Overfull \hbox (60.88802pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (60.88802pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='-') && (ReceiveFIFO
 [6]=='E') && (ReceiveFIFO[7]=='Z') ) {ZEtarget=ZE-ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetZ=1;}[] 
  []
 
 
-Overfull \hbox (60.88802pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (60.88802pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='-') && (ReceiveFIFO
 [6]=='R') && (ReceiveFIFO[7]=='F') ) {FRtarget=FR-ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetF=1;}[] 
  []
 
 
-Overfull \hbox (83.19003pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (83.19003pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='A') && (ReceiveFIFO[7]=='O') ) {OA=ReceiveNumber;My_EE_Write(OA_Mem,OA>>8
 );My_EE_Write(OA_Mem+1,OA);}[] 
  []
 
 
-Overfull \hbox (83.19003pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (83.19003pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='O') ) {OZ=ReceiveNumber;My_EE_Write(OZ_Mem,OZ>>8
 );My_EE_Write(OZ_Mem+1,OZ);}[] 
  []
 
 
-Overfull \hbox (83.19003pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (83.19003pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='F') && (ReceiveFIFO[7]=='O') ) {OF=ReceiveNumber;My_EE_Write(OF_Mem,OF>>8
 );My_EE_Write(OF_Mem+1,OF);}[] 
  []
 
 
-Overfull \hbox (130.98006pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (130.98006pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='A') && (ReceiveFIFO[7]=='I') ) {Init_DA=ReceiveNumber;My_EE_Write(DA_Mem,
 Init_DA>>8);My_EE_Write(DA_Mem+1,Init_DA);}[] 
  []
 
 
-Overfull \hbox (130.98006pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (130.98006pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='I') ) {Init_DZ=ReceiveNumber;My_EE_Write(DZ_Mem,
 Init_DZ>>8);My_EE_Write(DZ_Mem+1,Init_DZ);}[] 
  []
 
 
-Overfull \hbox (130.98006pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (130.98006pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='F') && (ReceiveFIFO[7]=='I') ) {Init_DF=ReceiveNumber;My_EE_Write(DF_Mem,
 Init_DF>>8);My_EE_Write(DF_Mem+1,Init_DF);}[] 
  []
 
 
-Overfull \hbox (267.97809pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (267.97809pt too wide) in paragraph at lines 3223--3223
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]>='0') && (ReceiveFIFO[2
 ]>='0') && (ReceiveFIFO[3]>='0') && (ReceiveFIFO[4]>='0') ) && ( (ReceiveFIFO[1
 ]<='9') && (ReceiveFIFO[2]<='9') && (ReceiveFIFO[3]<='9') && (ReceiveFIFO[4]<='
@@ -1562,7 +1562,7 @@ Overfull \hbox (267.97809pt too wide) in paragraph at lines 3226--3226
  []
 
 
-Overfull \hbox (280.7221pt too wide) in paragraph at lines 3226--3226
+Overfull \hbox (280.7221pt too wide) in paragraph at lines 3223--3223
 []                    \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[6]>='0') && (ReceiveFI
 FO[7]>='0') && (ReceiveFIFO[8]>='0') && (ReceiveFIFO[9]>='0') ) && ( (ReceiveFI
 FO[6]<='9') && (ReceiveFIFO[7]<='9') && (ReceiveFIFO[8]<='9') && (ReceiveFIFO[9
@@ -1626,10 +1626,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 28065 strings out of 479139
- 516145 string characters out of 5872647
- 1045272 words of memory out of 5000000
- 47263 multiletter control sequences out of 15000+600000
+ 28064 strings out of 479139
+ 516139 string characters out of 5872647
+ 1045253 words of memory out of 5000000
+ 47262 multiletter control sequences out of 15000+600000
  407905 words of font info for 91 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  98i,9n,125p,1154b,999s stack positions out of 5000i,500n,10000p,200000b,80000s
