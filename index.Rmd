@@ -18,15 +18,41 @@ lof: true
 # always_allow_html: yes
 ---
 
-<!-- enable caching globally -->
 ```{r setup, include=FALSE}
 require(knitr)
 opts_chunk$set(cache = TRUE)
-opts_chunk$set(out.width = '80%', fig.align = 'center')
+opts_chunk$set(tidy.opts = list( width.cutoff = 60 ), tidy = TRUE)
+opts_chunk$set(out.width = '90%', fig.align = 'center')
 ```
 
+\newpage
 
-<!-- _output.yml ouput build instructions -->
-<!-- **use build all from Rstudio** -->
-<!-- To compile this example to PDF, you need to install XeLaTeX. -->
+\  
+\vfill 
+\  
+
+>  **Τα δεδομένα αυτά είναι υπό επεξεργασία, και μπορούν να αφαιρεθούν οποιαδήποτε στιγμή από το διαδίκτυο.**
+
+\  
+\vfill
+\  
+
+>  Η εργασία αυτή διανέμεται ως:\
+>  **Creative Commons - Αναφορά Δημιουργού -**\
+>  **Μη Εμπορική Χρήση - Παρόμοια Διανομή 4.0 Διεθνές.**\
+>  [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)\
+>  Στοιχειοθεσία έγινε με: [bookdown](https://bookdown.org/), [R](https://www.r-project.org/), [Rmarkdown](http://rmarkdown.rstudio.com/), [Pandoc](https://pandoc.org/), [XeTeX](http://xetex.sourceforge.net/).\
+>  Build: `r version=as.numeric(read.table("build.version",nrows=1))+1; write.table(version,"build.version",row.names=F,col.names=F); paste0(as.hexmode(as.numeric(format(Sys.Date(),"%Y"))),as.hexmode(as.numeric(format(Sys.Date(),"%j"))),as.hexmode(version)) `
+
+\  
+\vfill
+\  
+
+>  Για διορθώσεις και προσθήκες επικοινωνήστε με τον [Νάτση Αθανάσιο](mailto:natsisthanasis@gmail.com).    
+
+\  
+\vfill
+\  
+
+**_Σημείωση:_ Ο πηγαίος κώδικας (source code) που παρατίθεται εδώ είναι ένα παράδειγμα εφαρμογής κάποιων τεχνικών. Σε περίπτωση που θέλετε να τον χρησιμοποιήσετε, προτείνουμε να δοκιμαστεί η καταλληλότητα του για την επιθυμητή χρήση, πρώτα σε μη σημαντικές εφαρμογές (non-critical). Τα παραδείγματα κώδικα εδώ, διαφέρουν από αυτά που χρησιμοποιούμε, λόγω της συνεχής εξέλιξης και βελτίωσης κατά την χρήση τους.**
 
