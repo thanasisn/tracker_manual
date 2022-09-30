@@ -4,7 +4,6 @@ author:          "Νάτσης Αθανάσιος"
 date:            "`r Sys.Date()`"
 site:            bookdown::bookdown_site
 output:          bookdown::gitbook
-# documentclass:  book
 documentclass:   article
 url:             https://lap-tracker-manual-thanasisn.netlify.app/
 cover-image:     files/P1110595e2.png
