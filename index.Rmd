@@ -6,7 +6,7 @@ site:            bookdown::bookdown_site
 output:          bookdown::gitbook
 documentclass:   article
 url:             https://lap-tracker-manual-thanasisn.netlify.app/
-cover-image:     files/P1110595e2.png
+favicon:         files/P1110595e2.png
 urlcolor:        blue
 classoption:     [a4paper,twoside,titlepage,11pt]
 #bibliography:   [bib/thesis.bib]
