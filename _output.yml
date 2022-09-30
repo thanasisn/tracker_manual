@@ -6,6 +6,8 @@ bookdown::gitbook:
   config:
     toc:
       before: |
+        <p> </p>
+        <div class="logos" align="center"><img src="files/P1110595e2.png" width="80px" align="center"></div>
         <li><a href="./">LAP tracker manual</a></li>
         <li><a href="mailto:natsisthanasis@gmail.com">Natsis Thanasis</a></li>
       after: |
