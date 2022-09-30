@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.4.2)  30 SEP 2022 12:43
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.4.2)  30 SEP 2022 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03> (/usr/share/texlive/texmf
 -dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count173
 \c@section=\count174
@@ -481,31 +481,31 @@ LaTeX Info: Redefining \LaTeXe on input line 219.
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 
-Package fontspec Info: Linux Libertine O scale = 1.004659434465588.
+Package fontspec Info: Linux Libertine O scale = 1.004661224781475.
 
 
-Package fontspec Info: Linux Libertine O scale = 1.004659434465588.
+Package fontspec Info: Linux Libertine O scale = 1.004661224781475.
 
 
-Package fontspec Info: Linux Libertine O scale = 1.004659434465588.
+Package fontspec Info: Linux Libertine O scale = 1.004661224781475.
 
 
-Package fontspec Info: Linux Libertine O/B scale = 0.9308824862201642.
+Package fontspec Info: Linux Libertine O/B scale = 0.9308822334383718.
 
 
-Package fontspec Info: Linux Libertine O/B scale = 0.9308824862201642.
+Package fontspec Info: Linux Libertine O/B scale = 0.9308822334383718.
 
 
-Package fontspec Info: Linux Libertine O/I scale = 1.004659434465588.
+Package fontspec Info: Linux Libertine O/I scale = 1.004661224781475.
 
 
-Package fontspec Info: Linux Libertine O/I scale = 1.004659434465588.
+Package fontspec Info: Linux Libertine O/I scale = 1.004661224781475.
 
 
-Package fontspec Info: Linux Libertine O/BI scale = 0.9685366738769526.
+Package fontspec Info: Linux Libertine O/BI scale = 0.9685383336308211.
 
 
-Package fontspec Info: Linux Libertine O/BI scale = 0.9685366738769526.
+Package fontspec Info: Linux Libertine O/BI scale = 0.9685383336308211.
 
 
 Package fontspec Info: Font family 'LinuxLibertineO(0)' created for font
@@ -544,33 +544,33 @@ Package fontspec Info: Font family 'LinuxLibertineO(0)' created for font
 ;"
 
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
-(Font)              scaled to size 13.20007pt on input line 133.
+(Font)              scaled to size 12.04506pt on input line 133.
 
-Package fontspec Info: Linux Libertine O scale = 1.100002964016836.
-
-
-Package fontspec Info: Linux Libertine O scale = 1.100002964016836.
+Package fontspec Info: Linux Libertine O scale = 1.100003573064292.
 
 
-Package fontspec Info: Linux Libertine O scale = 1.100002964016836.
+Package fontspec Info: Linux Libertine O scale = 1.100003573064292.
 
 
-Package fontspec Info: Linux Libertine O/B scale = 1.019224484303209.
+Package fontspec Info: Linux Libertine O scale = 1.100003573064292.
 
 
-Package fontspec Info: Linux Libertine O/B scale = 1.019224484303209.
+Package fontspec Info: Linux Libertine O/B scale = 1.019222955585853.
 
 
-Package fontspec Info: Linux Libertine O/I scale = 1.100002964016836.
+Package fontspec Info: Linux Libertine O/B scale = 1.019222955585853.
 
 
-Package fontspec Info: Linux Libertine O/I scale = 1.100002964016836.
+Package fontspec Info: Linux Libertine O/I scale = 1.100003573064292.
 
 
-Package fontspec Info: Linux Libertine O/BI scale = 1.060452104936808.
+Package fontspec Info: Linux Libertine O/I scale = 1.100003573064292.
 
 
-Package fontspec Info: Linux Libertine O/BI scale = 1.060452104936808.
+Package fontspec Info: Linux Libertine O/BI scale = 1.060452619613517.
+
+
+Package fontspec Info: Linux Libertine O/BI scale = 1.060452619613517.
 
 
 Package fontspec Info: Font family 'LinuxLibertineO(1)' created for font
@@ -757,13 +757,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/lmtt/m/n --> TU/lmtt/b/n on input line 193.
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
 Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
@@ -775,55 +775,55 @@ allCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.094898112717693]"[latinmodern-math.otf]/OT:scrip
+(fontspec)             <->s*[1.094896458074007]"[latinmodern-math.otf]/OT:scrip
 t=math;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.094898112717693]"[latinmodern-math.otf]/OT:scrip
+(fontspec)             <->s*[1.094896458074007]"[latinmodern-math.otf]/OT:scrip
 t=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 13.13873pt on input line 193.
+(Font)              scaled to size 11.98909pt on input line 193.
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
-
-
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
+
+
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
 Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 (fontspec)             'latinmodern-math.otf' with options
 (fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latin
-modern-math.otf,Style=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=Ma
-thScriptScript}},BoldFont={latinmodern-math.otf}].
+allCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=
+latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,St
+yle=MathScriptScript}},BoldFont={latinmodern-math.otf}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <10.2->s*[1.094898112717693]"[latinmodern-math.otf]/OT:s
-cript=math;language=dflt;"<7.2-10.2>s*[1.094898112717693]"[latinmodern-math.otf
-]/OT:script=math;language=dflt;+ssty=0;"<-7.2>s*[1.094898112717693]"[latinmoder
-n-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <9.3075->s*[1.094896458074007]"[latinmodern-math.otf]/OT
+:script=math;language=dflt;"<6.57-9.3075>s*[1.094896458074007]"[latinmodern-mat
+h.otf]/OT:script=math;language=dflt;+ssty=0;"<-6.57>s*[1.094896458074007]"[lati
+nmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.094898112717693]"[latinmodern-math.otf]/OT:scrip
+(fontspec)             <->s*[1.094896458074007]"[latinmodern-math.otf]/OT:scrip
 t=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 13.13873pt on input line 193.
+(Font)              scaled to size 11.98909pt on input line 193.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 193.
 
@@ -836,88 +836,88 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
 t line 193.
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.095007602528965.
+Package fontspec Info: latinmodern-math scale = 1.095005947719814.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.095007602528965.
+Package fontspec Info: latinmodern-math scale = 1.095005947719814.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.095007602528965.
+Package fontspec Info: latinmodern-math scale = 1.095005947719814.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.095007602528965.
+Package fontspec Info: latinmodern-math scale = 1.095005947719814.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.095007602528965.
+Package fontspec Info: latinmodern-math scale = 1.095005947719814.
 
 
 Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             'latinmodern-math.otf' with options
 (fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latin
-modern-math.otf,Style=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=Ma
-thScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustme
-nt={\fontdimen
-(fontspec)             8\font =8.89493pt\relax \fontdimen 9\font
-(fontspec)             =5.17667pt\relax \fontdimen 10\font =5.8336pt\relax
-(fontspec)             \fontdimen 11\font =9.01317pt\relax \fontdimen 12\font
-(fontspec)             =4.53287pt\relax \fontdimen 13\font =4.76936pt\relax
-(fontspec)             \fontdimen 14\font =4.76936pt\relax \fontdimen 15\font
-(fontspec)             =3.79709pt\relax \fontdimen 16\font =3.24527pt\relax
-(fontspec)             \fontdimen 17\font =3.24527pt\relax \fontdimen 18\font
-(fontspec)             =3.28468pt\relax \fontdimen 19\font =2.62775pt\relax
-(fontspec)             \fontdimen 22\font =3.28468pt\relax \fontdimen 20\font
+allCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=
+latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,St
+yle=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAd
+justment={\fontdimen
+(fontspec)             8\font =8.11661pt\relax \fontdimen 9\font
+(fontspec)             =4.72371pt\relax \fontdimen 10\font =5.32315pt\relax
+(fontspec)             \fontdimen 11\font =8.22452pt\relax \fontdimen 12\font
+(fontspec)             =4.13623pt\relax \fontdimen 13\font =4.35204pt\relax
+(fontspec)             \fontdimen 14\font =4.35204pt\relax \fontdimen 15\font
+(fontspec)             =3.46484pt\relax \fontdimen 16\font =2.9613pt\relax
+(fontspec)             \fontdimen 17\font =2.9613pt\relax \fontdimen 18\font
+(fontspec)             =2.99727pt\relax \fontdimen 19\font =2.39781pt\relax
+(fontspec)             \fontdimen 22\font =2.99727pt\relax \fontdimen 20\font
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax }].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <10.2->s*[1.095007602528965]"[latinmodern-math.otf]/OT:s
-cript=math;language=dflt;"<7.2-10.2>s*[1.095007602528965]"[latinmodern-math.otf
-]/OT:script=math;language=dflt;+ssty=0;"<-7.2>s*[1.095007602528965]"[latinmoder
-n-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <9.3075->s*[1.095005947719814]"[latinmodern-math.otf]/OT
+:script=math;language=dflt;"<6.57-9.3075>s*[1.095005947719814]"[latinmodern-mat
+h.otf]/OT:script=math;language=dflt;+ssty=0;"<-6.57>s*[1.095005947719814]"[lati
+nmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =8.89493pt\relax \fontdimen 9\font
-(fontspec)             =5.17667pt\relax \fontdimen 10\font =5.8336pt\relax
-(fontspec)             \fontdimen 11\font =9.01317pt\relax \fontdimen 12\font
-(fontspec)             =4.53287pt\relax \fontdimen 13\font =4.76936pt\relax
-(fontspec)             \fontdimen 14\font =4.76936pt\relax \fontdimen 15\font
-(fontspec)             =3.79709pt\relax \fontdimen 16\font =3.24527pt\relax
-(fontspec)             \fontdimen 17\font =3.24527pt\relax \fontdimen 18\font
-(fontspec)             =3.28468pt\relax \fontdimen 19\font =2.62775pt\relax
-(fontspec)             \fontdimen 22\font =3.28468pt\relax \fontdimen 20\font
+(fontspec)             \fontdimen 8\font =8.11661pt\relax \fontdimen 9\font
+(fontspec)             =4.72371pt\relax \fontdimen 10\font =5.32315pt\relax
+(fontspec)             \fontdimen 11\font =8.22452pt\relax \fontdimen 12\font
+(fontspec)             =4.13623pt\relax \fontdimen 13\font =4.35204pt\relax
+(fontspec)             \fontdimen 14\font =4.35204pt\relax \fontdimen 15\font
+(fontspec)             =3.46484pt\relax \fontdimen 16\font =2.9613pt\relax
+(fontspec)             \fontdimen 17\font =2.9613pt\relax \fontdimen 18\font
+(fontspec)             =2.99727pt\relax \fontdimen 19\font =2.39781pt\relax
+(fontspec)             \fontdimen 22\font =2.99727pt\relax \fontdimen 20\font
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.095007602528965]"[latinmodern-math.otf]/OT:scrip
+(fontspec)             <->s*[1.095005947719814]"[latinmodern-math.otf]/OT:scrip
 t=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =8.89493pt\relax \fontdimen 9\font
-(fontspec)             =5.17667pt\relax \fontdimen 10\font =5.8336pt\relax
-(fontspec)             \fontdimen 11\font =9.01317pt\relax \fontdimen 12\font
-(fontspec)             =4.53287pt\relax \fontdimen 13\font =4.76936pt\relax
-(fontspec)             \fontdimen 14\font =4.76936pt\relax \fontdimen 15\font
-(fontspec)             =3.79709pt\relax \fontdimen 16\font =3.24527pt\relax
-(fontspec)             \fontdimen 17\font =3.24527pt\relax \fontdimen 18\font
-(fontspec)             =3.28468pt\relax \fontdimen 19\font =2.62775pt\relax
-(fontspec)             \fontdimen 22\font =3.28468pt\relax \fontdimen 20\font
+(fontspec)             \fontdimen 8\font =8.11661pt\relax \fontdimen 9\font
+(fontspec)             =4.72371pt\relax \fontdimen 10\font =5.32315pt\relax
+(fontspec)             \fontdimen 11\font =8.22452pt\relax \fontdimen 12\font
+(fontspec)             =4.13623pt\relax \fontdimen 13\font =4.35204pt\relax
+(fontspec)             \fontdimen 14\font =4.35204pt\relax \fontdimen 15\font
+(fontspec)             =3.46484pt\relax \fontdimen 16\font =2.9613pt\relax
+(fontspec)             \fontdimen 17\font =2.9613pt\relax \fontdimen 18\font
+(fontspec)             =2.99727pt\relax \fontdimen 19\font =2.39781pt\relax
+(fontspec)             \fontdimen 22\font =2.99727pt\relax \fontdimen 20\font
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
@@ -931,71 +931,71 @@ LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
 t line 193.
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094788622906421.
+Package fontspec Info: latinmodern-math scale = 1.0947869684282.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094788622906421.
+Package fontspec Info: latinmodern-math scale = 1.0947869684282.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094788622906421.
+Package fontspec Info: latinmodern-math scale = 1.0947869684282.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094788622906421.
+Package fontspec Info: latinmodern-math scale = 1.0947869684282.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094898112717693.
+Package fontspec Info: latinmodern-math scale = 1.094896458074007.
 
 
-Package fontspec Info: latinmodern-math scale = 1.094788622906421.
+Package fontspec Info: latinmodern-math scale = 1.0947869684282.
 
 
 Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             'latinmodern-math.otf' with options
 (fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latin
-modern-math.otf,Style=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=Ma
-thScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustme
-nt={\fontdimen
-(fontspec)             8\font =0.52554pt\relax \fontdimen 9\font
-(fontspec)             =2.62775pt\relax \fontdimen 10\font =2.19417pt\relax
-(fontspec)             \fontdimen 11\font =1.4584pt\relax \fontdimen 12\font
-(fontspec)             =7.88324pt\relax \fontdimen 13\font =0pt\relax }].
+allCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=
+latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,St
+yle=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAd
+justment={\fontdimen
+(fontspec)             8\font =0.47957pt\relax \fontdimen 9\font
+(fontspec)             =2.39781pt\relax \fontdimen 10\font =2.00218pt\relax
+(fontspec)             \fontdimen 11\font =1.3308pt\relax \fontdimen 12\font
+(fontspec)             =7.19345pt\relax \fontdimen 13\font =0pt\relax }].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <10.2->s*[1.094788622906421]"[latinmodern-math.otf]/OT:s
-cript=math;language=dflt;"<7.2-10.2>s*[1.094788622906421]"[latinmodern-math.otf
-]/OT:script=math;language=dflt;+ssty=0;"<-7.2>s*[1.094788622906421]"[latinmoder
+(fontspec)             <9.3075->s*[1.0947869684282]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6.57-9.3075>s*[1.0947869684282]"[latinmodern-math.ot
+f]/OT:script=math;language=dflt;+ssty=0;"<-6.57>s*[1.0947869684282]"[latinmoder
 n-math.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =0.52554pt\relax \fontdimen 9\font
-(fontspec)             =2.62775pt\relax \fontdimen 10\font =2.19417pt\relax
-(fontspec)             \fontdimen 11\font =1.4584pt\relax \fontdimen 12\font
-(fontspec)             =7.88324pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             \fontdimen 8\font =0.47957pt\relax \fontdimen 9\font
+(fontspec)             =2.39781pt\relax \fontdimen 10\font =2.00218pt\relax
+(fontspec)             \fontdimen 11\font =1.3308pt\relax \fontdimen 12\font
+(fontspec)             =7.19345pt\relax \fontdimen 13\font =0pt\relax 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.094788622906421]"[latinmodern-math.otf]/OT:scrip
-t=math;language=dflt;"
+(fontspec)             <->s*[1.0947869684282]"[latinmodern-math.otf]/OT:script=
+math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =0.52554pt\relax \fontdimen 9\font
-(fontspec)             =2.62775pt\relax \fontdimen 10\font =2.19417pt\relax
-(fontspec)             \fontdimen 11\font =1.4584pt\relax \fontdimen 12\font
-(fontspec)             =7.88324pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             \fontdimen 8\font =0.47957pt\relax \fontdimen 9\font
+(fontspec)             =2.39781pt\relax \fontdimen 10\font =2.00218pt\relax
+(fontspec)             \fontdimen 11\font =1.3308pt\relax \fontdimen 12\font
+(fontspec)             =7.19345pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
@@ -1058,15 +1058,15 @@ Dictionary: translator-basic-dictionary, Language: English
 * \textheight=674.33032pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
-* \topmargin=-55.46184pt
+* \topmargin=-51.95184pt
 * \headheight=12.0pt
-* \headsep=56.55011pt
-* \topskip=12.0pt
-* \footskip=75.40015pt
-* \marginparwidth=85.0pt
+* \headsep=53.04012pt
+* \topskip=11.0pt
+* \footskip=70.72015pt
+* \marginparwidth=103.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1077,26 +1077,26 @@ Dictionary: translator-basic-dictionary, Language: English
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.1971pt on input line 193.
+(Font)              scaled to size 8.39235pt on input line 193.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.56937pt on input line 193.
+(Font)              scaled to size 5.99455pt on input line 193.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
 93.
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 13.14001pt on input line 193.
+(Font)              scaled to size 11.99025pt on input line 193.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.198pt on input line 193.
+(Font)              scaled to size 8.39317pt on input line 193.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.57pt on input line 193.
+(Font)              scaled to size 5.99513pt on input line 193.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 13.13745pt on input line 193.
+(Font)              scaled to size 11.98792pt on input line 193.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.1962pt on input line 193.
+(Font)              scaled to size 8.39153pt on input line 193.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.56873pt on input line 193.
+(Font)              scaled to size 5.99396pt on input line 193.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 193
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1119,24 +1119,24 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
 (Font)              scaled to size 27.36815pt on input line 207.
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
-(Font)              scaled to size 19.0081pt on input line 208.
+(Font)              scaled to size 15.84007pt on input line 208.
 File: /home/athan/Media/LOGO/LAP3.jpg Graphic file (type bmp)
 </home/athan/Media/LOGO/LAP3.jpg>
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
-(Font)              scaled to size 12.04506pt on input line 221.
+(Font)              scaled to size 11.00006pt on input line 221.
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
-(Font)              scaled to size 15.84007pt on input line 230.
+(Font)              scaled to size 13.20007pt on input line 230.
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/sc' will be
-(Font)              scaled to size 15.84007pt on input line 230.
+(Font)              scaled to size 13.20007pt on input line 230.
 [1
 
 
 ]
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/n' will be
-(Font)              scaled to size 19.0081pt on input line 268.
+(Font)              scaled to size 15.84007pt on input line 268.
 (./LAP_tracker_manual.toc
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/n' will be
-(Font)              scaled to size 13.20007pt on input line 1.
+(Font)              scaled to size 12.04506pt on input line 1.
 [2])
 \tf@toc=\write4
 \openout4 = `LAP_tracker_manual.toc'.
@@ -1151,7 +1151,19 @@ LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/n' will be
 
 [3]
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/it' will be
-(Font)              scaled to size 13.20007pt on input line 304.
+(Font)              scaled to size 12.04506pt on input line 304.
+
+Underfull \hbox (badness 2932) in paragraph at lines 304--305
+[]\TU/LinuxLibertineO(0)/b/it/10.95 Σημείωση: \TU/LinuxLibertineO(0)/b/n/10.95 
+Ο πηγαίος κώδικας (source code) που παρατίθεται εδώ είναι ένα
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 304--305
+\TU/LinuxLibertineO(0)/b/n/10.95 παράδειγμα εφαρμογής κάποιων τεχνικών. Σε περί
+πτωση που θέλετε να τον
+ []
+
 [4]
 Underfull \hbox (badness 10000) in paragraph at lines 308--309
 
@@ -1160,12 +1172,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 308--309
 
 Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
- []
-
-
-Underfull \hbox (badness 3838) in paragraph at lines 316--317
-\TU/LinuxLibertineO(0)/m/n/12 ηλιοστάτη του ΕΦΑ. Συντάχτηκε από της διαθέσιμες 
-πληροφορίες για τον
  []
 
 
@@ -1179,109 +1185,126 @@ Underfull \hbox (badness 10000) in paragraph at lines 320--321
  []
 
 [5]
-Underfull \hbox (badness 7814) in paragraph at lines 325--325
-[]\TU/LinuxLibertineO(0)/b/n/17.28 Ο ηλιοστάτης του Εργαστηρίου Φυσικής της
+LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/n' will be
+(Font)              scaled to size 13.20007pt on input line 328.
+
+Underfull \hbox (badness 2941) in paragraph at lines 334--335
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Και οι δύο κάθετοι άξονες (αζιμούθιου και ζε
+νίθ) έχουν τις ίδιες δυνατότητες και
  []
 
-LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/n' will be
-(Font)              scaled to size 15.84007pt on input line 328.
+
+Underfull \hbox (badness 1122) in paragraph at lines 334--335
+\TU/LinuxLibertineO(0)/m/n/10.95 χαρακτηριστικά μεταξύ τους, η λειτουργία τους 
+είναι πανομοιότυπη και μπορούν να
+ []
+
 File: ../../Aerosols/Photos/EL/20160615_Tracker2/20160615_125806.jpg Graphic fi
 le (type bmp)
 <../../Aerosols/Photos/EL/20160615_Tracker2/20160615_125806.jpg>
 Package hyperref Info: bookmark level for unknown img defaults to 0 on input li
 ne 349.
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 349.
+(Font)              scaled to size 9.90005pt on input line 349.
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/b/n' will be
-(Font)              scaled to size 11.00006pt on input line 349.
+(Font)              scaled to size 9.90005pt on input line 349.
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/it' will be
-(Font)              scaled to size 11.00006pt on input line 349.
+(Font)              scaled to size 9.90005pt on input line 349.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6]
 File: figure/trackercon.png Graphic file (type bmp)
 <figure/trackercon.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 1024) in paragraph at lines 373--374
-\TU/LinuxLibertineO(0)/m/n/12 προκειμένου να επιτευχθεί επικοινωνία με τον Trac
-ker σε περιβάλλον MatLab.
- []
-
 [7]
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 378.
 
-Underfull \hbox (badness 1009) in paragraph at lines 398--399
-\TU/LinuxLibertineO(0)/m/n/12 εντολής που ολοκληρώθηκε πρώτη και στην συνέχεια 
-με την ίδια λογική τις
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [8]
-Underfull \hbox (badness 2762) in paragraph at lines 421--422
-\TU/lmtt/m/n/12 flushinput(Tracker.SerialPort) \TU/LinuxLibertineO(0)/m/n/12 κα
-ι η \TU/lmtt/m/n/12 flushoutput(Tracker.SerialPort) \TU/LinuxLibertineO(0)/m/n/
-12 που
+Underfull \hbox (badness 2134) in paragraph at lines 421--422
+\TU/LinuxLibertineO(0)/m/n/10.95 κατά την σειριακή επικοινωνία στην μεταβλητή \
+TU/lmtt/m/n/10.95 msg_err\TU/LinuxLibertineO(0)/m/n/10.95 . Άλλες χρήσιμες εντο
+λές
  []
 
 
-Overfull \hbox (10.77863pt too wide) in paragraph at lines 426--427
-\TU/LinuxLibertineO(0)/m/n/12 Μετά από δοκιμές όλων των δυνατών συνδυασμών της 
-σειρά σύνδεσης. Διαπιστώσαμε
+Underfull \hbox (badness 2913) in paragraph at lines 421--422
+\TU/LinuxLibertineO(0)/m/n/10.95 και παράμετροι για τον έλεγχο και την ορθή επι
+κοινωνία με τον Tracker είναι η
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 421--422
+\TU/lmtt/m/n/10.95 Tracker.SerialPort.BytesAvailable\TU/LinuxLibertineO(0)/m/n/
+10.95 , η οποία επιστρέφει τον αριθμό των bytes που
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 421--422
+\TU/LinuxLibertineO(0)/m/n/10.95 και η \TU/lmtt/m/n/10.95 flushoutput(Tracker.S
+erialPort) \TU/LinuxLibertineO(0)/m/n/10.95 που αδειάζουν τον Input και Output 
+buffer
  []
 
 File: figure/trackercomm.png Graphic file (type bmp)
 <figure/trackercomm.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 [9]
-Underfull \hbox (badness 2088) in paragraph at lines 445--448
-\TU/LinuxLibertineO(0)/m/n/12 Κατά τη λειτουργία πρέπει να δοθεί προσοχή, διότι
- δεν υπάρχει μηχανικός
+Underfull \hbox (badness 1292) in paragraph at lines 458--460
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Εάν το βήμα γίνει ακατάλληλο και ο tracker π
+εριστρέφεται ασταμάτητα, μπορεί να
  []
 
 
-Underfull \vbox (badness 2707) has occurred while \output is active []
-
-[10]
-Underfull \hbox (badness 1990) in paragraph at lines 461--464
-\TU/LinuxLibertineO(0)/m/n/12 η αντίσταση των κινητήρων σε εξωτερική περιστροφή
- είναι πολύ μικρή, με
- []
-
-[11]
-Underfull \hbox (badness 1924) in paragraph at lines 495--496
-\TU/LinuxLibertineO(0)/m/n/12 τεσσάρων ψηφίων. Όταν είναι αναγκαίο πρέπει να πρ
-οπορεύονται από τα
- []
-
-
-Underfull \hbox (badness 1173) in paragraph at lines 504--508
-\TU/LinuxLibertineO(0)/m/n/12 πρόβλημα στην επικοινωνία και ο Tracker στην συνέ
-χεια δεν επιστρέφει την
- []
-
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 536.
-[12] [13]
-Underfull \hbox (badness 1715) in paragraph at lines 700--701
-\TU/LinuxLibertineO(0)/m/n/12 Κάποιες ιδέες και προτάσεις για το πως μπορεί να 
-γίνει επανασύνδεση της
+Underfull \hbox (badness 3128) in paragraph at lines 461--464
+\TU/LinuxLibertineO(0)/m/n/10.95 του ηλιοστάτη (ορθογώνιο παραλληλόγραμμο καπάκ
+ι) η αντίσταση των κινητήρων
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[14]
-Overfull \hbox (0.55002pt too wide) in paragraph at lines 731--732
-\TU/LinuxLibertineO(0)/m/n/12 Αν και δεν έχουν δοκιμαστεί, οι εντολές αυτής της
- μορφής μπορούν να αποσυνδέσουν
+[10]
+Underfull \hbox (badness 1178) in paragraph at lines 493--494
+\TU/LinuxLibertineO(0)/m/n/10.95 Η επικοινωνία με τον microcontroller του track
+er γίνεται με εντολές που στέλνονται
  []
 
+
+Underfull \hbox (badness 4328) in paragraph at lines 497--498
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Αντίστοιχα, οι εντολές που αφορούν ταχύτητες
+ έχουν την ίδια λογική μόνο που
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 499--500
+[]\TU/LinuxLibertineO(0)/b/n/10.95 Προσοχή: \TU/LinuxLibertineO(0)/m/n/10.95 Η 
+απάντηση κάθε εντολής (ανάλογα και με τις ρυθμίσεις της σειριακής
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 504--508
+\TU/LinuxLibertineO(0)/m/n/10.95 εντολής ο tracker επιστρέφει τη διαφορά στη θέ
+ση από τον προηγούμενο μηδενισμό.
+ []
+
+[11]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <9> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 536.
+
+Underfull \hbox (badness 1038) in paragraph at lines 547--548
+\TU/LinuxLibertineO(0)/m/n/10.95 Η εντολές για την κίνηση των αξόνων έχουν τρία
+ μέρη και έχουν τη γενική μορφή:
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 547--548
+\TU/lmtt/b/n/10.95 xx@####<cr>\TU/LinuxLibertineO(0)/m/n/10.95 . Η εξήγηση των 
+επιμέρους στοιχείων γίνεται στον Πίνακα [][]2.3[][] και [][]2.4[][].
+ []
+
+[12] [13] [14]
 File: ./files/57SH56-4AM_400_STEP.pdf Graphic file (type pdf)
 <use ./files/57SH56-4AM_400_STEP.pdf>
 
@@ -1291,18 +1314,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: ./files/FWmotor.pdf Graphic file (type pdf)
 <use ./files/FWmotor.pdf>
 
-Underfull \vbox (badness 2213) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [16]
 File: ./files/FWmotor_wiring.pdf Graphic file (type pdf)
 <use ./files/FWmotor_wiring.pdf>
 
-Underfull \vbox (badness 7012) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [18] [19]
+Underfull \hbox (badness 1132) in paragraph at lines 765--766
+\TU/LinuxLibertineO(0)/m/n/10.95 Είναι αναγκαίο το επίπεδο τις συσκευής να είνα
+ι απολύτως οριζόντιο, αλλά και να
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 765--766
+\TU/LinuxLibertineO(0)/m/n/10.95 διατηρείται κατά τη λειτουργία του συστήματος 
+tracker-οργάνου. Γι’ αυτό η βάση,
+ []
+
 File: figure/compass.pdf Graphic file (type pdf)
 <use figure/compass.pdf>
 [20]
@@ -1312,48 +1346,28 @@ ile (type bmp)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21]
-Underfull \hbox (badness 2134) in paragraph at lines 807--808
-\TU/LinuxLibertineO(0)/m/n/12 επίπεδη. Με τον ίδιο τρόπο ρυθμίζουμε διαδοχικά κ
-αι τα υπόλοιπα πόδια.
- []
-
-
-Underfull \hbox (badness 1577) in paragraph at lines 809--810
-[]\TU/LinuxLibertineO(0)/m/n/12 Επαναλαμβάνουμε ότι είναι σημαντική η περιστροφ
-ή tracker μαζί με όργανο
- []
-
-[22]
-Underfull \hbox (badness 2096) in paragraph at lines 836--840
-\TU/LinuxLibertineO(0)/m/n/12 αυτό αποτρέπει την επανασύνδεση. Για να λυθεί αυτ
-ό ή πρέπει να μείνει
- []
-
-
-Underfull \hbox (badness 2343) in paragraph at lines 836--840
-\TU/LinuxLibertineO(0)/m/n/12 για μερικά λεπτά χωρίς τροφοδοσία, ή να βραχυκυκλ
-ωθούν οι επαφές που
- []
-
-
-Underfull \hbox (badness 1168) in paragraph at lines 836--840
-\TU/LinuxLibertineO(0)/m/n/12 τροφοδοτούν την ηλεκτρονική πλακέτα του tracker. 
-\TU/LinuxLibertineO(0)/b/n/12 ΠΡΟΣΟΧΗ: εφαρμόστε
- []
-
-
-Underfull \hbox (badness 3199) in paragraph at lines 875--879
-\TU/LinuxLibertineO(0)/b/n/12 port.py \TU/LinuxLibertineO(0)/m/n/12 (υπάρχει li
-nk στην επιφάνεια εργασίας). Το πρόγραμμα εμφανίζει
- []
-
-[23]
+[21] [22]
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/it' will be
-(Font)              scaled to size 13.20007pt on input line 892.
+(Font)              scaled to size 12.04506pt on input line 892.
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 902--905
+\TU/LinuxLibertineO(0)/m/n/10.95 Το πρόγραμμα (\TU/LinuxLibertineO(0)/b/n/10.95
+ protek506_measurments.py\TU/LinuxLibertineO(0)/m/n/10.95 ) παίρνει μετρήσεις τ
+ης αντίστασης -
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 902--905
+\TU/LinuxLibertineO(0)/m/n/10.95 θερμοκρασίας του CHP1 και μπορεί να εκτελεστεί
+ με όμοιο τρόπο με το πρόγραμμα
+ []
+
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
 (Font)              scaled to size 6.60004pt on input line 943.
-[24] [25]
+[24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [26]
@@ -1387,9 +1401,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [36]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[37]
 Overfull \hbox (271.1641pt too wide) in paragraph at lines 3226--3226
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]=='P') && (ReceiveFIFO[2
 ]=='O') && (ReceiveFIFO[3]=='T') && (ReceiveFIFO[4]=='S') )  || ( (ReceiveFIFO[
@@ -1398,6 +1409,9 @@ Overfull \hbox (271.1641pt too wide) in paragraph at lines 3226--3226
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[37]
 Overfull \hbox (427.2781pt too wide) in paragraph at lines 3226--3226
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]=='G') && (ReceiveFIFO[2
 ]=='U') && (ReceiveFIFO[3]=='B') && (ReceiveFIFO[4]=='E') && (ReceiveFIFO[5]=='
@@ -1484,9 +1498,6 @@ ing=1;GoToTargetA=1;}[]
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[38]
 Overfull \hbox (60.88802pt too wide) in paragraph at lines 3226--3226
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='-') && (ReceiveFIFO
 [6]=='E') && (ReceiveFIFO[7]=='Z') ) {ZEtarget=ZE-ReceiveNumber;OKpending=1;Mov
@@ -1561,6 +1572,9 @@ FO[6]<='9') && (ReceiveFIFO[7]<='9') && (ReceiveFIFO[8]<='9') && (ReceiveFIFO[9
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+[38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 [39]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1606,21 +1620,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [53]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[54]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[55] [56] (./LAP_tracker_manual.aux)
+[54] [55] (./LAP_tracker_manual.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 28057 strings out of 479139
- 515879 string characters out of 5872647
- 1040008 words of memory out of 5000000
- 47259 multiletter control sequences out of 15000+600000
- 407887 words of font info for 90 fonts, out of 8000000 for 9000
+ 28065 strings out of 479139
+ 516145 string characters out of 5872647
+ 1045272 words of memory out of 5000000
+ 47263 multiletter control sequences out of 15000+600000
+ 407905 words of font info for 91 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 98i,9n,125p,1154b,1000s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,9n,125p,1154b,999s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LAP_tracker_manual.pdf (56 pages).
+Output written on LAP_tracker_manual.pdf (55 pages).

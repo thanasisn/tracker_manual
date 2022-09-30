@@ -6,16 +6,17 @@ site:            bookdown::bookdown_site
 output:          bookdown::gitbook
 # documentclass:  book
 documentclass:   article
-classoption:     [a4paper,twoside,titlepage,12pt]
-#bibliography:    [bib/thesis.bib]
-#biblio-style:    apalike
+url:             https://lap-tracker-manual-thanasisn.netlify.app/
+cover-image:     files/P1110595e2.png
+urlcolor:        blue
+classoption:     [a4paper,twoside,titlepage,11pt]
+#bibliography:   [bib/thesis.bib]
+biblio-style:    apalike
 link-citations:  yes
 colorlinks:      yes
-# description:    "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 lot: true
 lof: true
 # always_allow_html: yes
-# output:         bookdown::word_document2
 ---
 
 <!-- enable caching globally -->
