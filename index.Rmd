@@ -14,6 +14,7 @@ classoption:     [a4paper,twoside,titlepage,11pt]
 biblio-style:    apalike
 link-citations:  yes
 colorlinks:      yes
+favicon:         files/P1110595e2.png
 lot: true
 lof: true
 # always_allow_html: yes
