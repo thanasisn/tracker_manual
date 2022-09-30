@@ -23,7 +23,7 @@ lof: true
 <!-- enable caching globally -->
 ```{r setup, include=FALSE}
 require(knitr)
-# opts_chunk$set(cache = TRUE)
+opts_chunk$set(cache = TRUE)
 opts_chunk$set(out.width = '80%', fig.align = 'center')
 ```
 
