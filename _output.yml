@@ -8,8 +8,8 @@ bookdown::gitbook:
       before: |
         <p> </p>
         <div class="logos" align="center"><img src="files/P1110595e2.png" width="80px" align="center"></div>
-        <li><a href="./">LAP tracker manual</a></li>
-        <li><a href="mailto:natsisthanasis@gmail.com">Natsis Thanasis</a></li>
+        <li align="center">LAP tracker manual</li>
+        <li align="center"><a href="mailto:natsisthanasis@gmail.com">mail: Natsis Thanasis</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: null
