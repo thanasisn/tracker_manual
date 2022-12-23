@@ -32,7 +32,7 @@ bookdown::pdf_book:
   template:         default_template.tex
   includes:
     in_header:      preamble.tex
-    before_body:    front.tex
+    # before_body:    front.tex
   latex_engine:     xelatex
   citation_package: natbib
   toc_depth:        3
