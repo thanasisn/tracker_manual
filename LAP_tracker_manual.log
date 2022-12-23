@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.4.2)  23 DEC 2022 13:07
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.4.2)  23 DEC 2022 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1338,76 +1338,84 @@ Underfull \hbox (badness 3148) in paragraph at lines 737--738
 File: ./figure/sun_tracker_main.png Graphic file (type bmp)
 <./figure/sun_tracker_main.png>
 
-LaTeX Warning: Float too large for page by 20.99738pt on input line 791.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[16]
+Overfull \vbox (20.99738pt too high) has occurred while \output is active []
+
+[17]
+Underfull \hbox (badness 5331) in paragraph at lines 817--818
+ \TU/LinuxLibertineO(0)/b/n/10.95 2.5.1.3 \TU/lmtt/b/n/10.95 param_location.py[
+] \TU/LinuxLibertineO(0)/m/n/10.95 Περιέχει τις παραμέτρους τις τοποθεσίας, γεω
+γραφικό
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 1975) in paragraph at lines 827--828
+ \TU/LinuxLibertineO(0)/b/n/10.95 2.5.2.1 \TU/lmtt/b/n/10.95 tracker_sighting_n
+o_ui_tcp-port.py[] \TU/LinuxLibertineO(0)/m/n/10.95 Αυτό το πρόγραμμα ελέγχει τ
+ο offset
+ []
 
 File: ./files/57SH56-4AM_400_STEP.pdf Graphic file (type pdf)
 <use ./files/57SH56-4AM_400_STEP.pdf>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4108) has occurred while \output is active []
 
-[16]
+[18]
 File: ./files/FWmotor.pdf Graphic file (type pdf)
 <use ./files/FWmotor.pdf>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[17]
+[19]
 File: ./files/FWmotor_wiring.pdf Graphic file (type pdf)
 <use ./files/FWmotor_wiring.pdf>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[18]
+[20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[19] [20]
-Underfull \hbox (badness 1132) in paragraph at lines 818--819
+[21] [22]
+Underfull \hbox (badness 1132) in paragraph at lines 854--855
 \TU/LinuxLibertineO(0)/m/n/10.95 Είναι αναγκαίο το επίπεδο τις συσκευής να είνα
 ι απολύτως οριζόντιο, αλλά και να
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 818--819
+Underfull \hbox (badness 1354) in paragraph at lines 854--855
 \TU/LinuxLibertineO(0)/m/n/10.95 διατηρείται κατά τη λειτουργία του συστήματος 
 tracker-οργάνου. Γι’ αυτό η βάση,
  []
 
 File: figure/compass.pdf Graphic file (type pdf)
 <use figure/compass.pdf>
-[21]
+[23]
 File: ../../Aerosols/Photos/EL/20160307_Tracker_CHP1_CCD/P1110530.jpg Graphic f
 ile (type bmp)
 <../../Aerosols/Photos/EL/20160307_Tracker_CHP1_CCD/P1110530.jpg>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22] [23]
+[24] [25]
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/it' will be
-(Font)              scaled to size 12.04506pt on input line 945.
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 955--958
+(Font)              scaled to size 12.04506pt on input line 981.
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 991--994
 \TU/LinuxLibertineO(0)/m/n/10.95 Το πρόγραμμα (\TU/LinuxLibertineO(0)/b/n/10.95
  protek506_measurments.py\TU/LinuxLibertineO(0)/m/n/10.95 ) παίρνει μετρήσεις τ
 ης αντίστασης -
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 955--958
+Underfull \hbox (badness 1163) in paragraph at lines 991--994
 \TU/LinuxLibertineO(0)/m/n/10.95 θερμοκρασίας του CHP1 και μπορεί να εκτελεστεί
  με όμοιο τρόπο με το πρόγραμμα
  []
 
 LaTeX Font Info:    Font shape `TU/LinuxLibertineO(0)/m/n' will be
-(Font)              scaled to size 6.60004pt on input line 996.
-[25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+(Font)              scaled to size 6.60004pt on input line 1032.
 [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1439,7 +1447,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [37]
-Overfull \hbox (271.1641pt too wide) in paragraph at lines 3279--3279
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[39]
+Overfull \hbox (271.1641pt too wide) in paragraph at lines 3315--3315
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]=='P') && (ReceiveFIFO[2
 ]=='O') && (ReceiveFIFO[3]=='T') && (ReceiveFIFO[4]=='S') )  || ( (ReceiveFIFO[
 1]=='p') && (ReceiveFIFO[2]=='o') && (ReceiveFIFO[3]=='t') && (ReceiveFIFO[4]==
@@ -1449,8 +1463,8 @@ Overfull \hbox (271.1641pt too wide) in paragraph at lines 3279--3279
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[38]
-Overfull \hbox (427.2781pt too wide) in paragraph at lines 3279--3279
+[40]
+Overfull \hbox (427.2781pt too wide) in paragraph at lines 3315--3315
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]=='G') && (ReceiveFIFO[2
 ]=='U') && (ReceiveFIFO[3]=='B') && (ReceiveFIFO[4]=='E') && (ReceiveFIFO[5]=='
 D') ) || ( (ReceiveFIFO[1]=='g') && (ReceiveFIFO[2]=='u') && (ReceiveFIFO[3]=='
@@ -1458,28 +1472,28 @@ b') && (ReceiveFIFO[4]=='e') && (ReceiveFIFO[5]=='d') ) )[]
  []
 
 
-Overfull \hbox (32.21404pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (32.21404pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[3]=='=') && (ReceiveFIFO
 [4]=='A') && (ReceiveFIFO[5]=='S') ) {SpeedA=ReceiveNumber;My_EE_Write(SpeedA_M
 em,SpeedA);}[] 
  []
 
 
-Overfull \hbox (32.21404pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (32.21404pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[3]=='=') && (ReceiveFIFO
 [4]=='Z') && (ReceiveFIFO[5]=='S') ) {SpeedZ=ReceiveNumber;My_EE_Write(SpeedZ_M
 em,SpeedZ);}[] 
  []
 
 
-Overfull \hbox (32.21404pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (32.21404pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[3]=='=') && (ReceiveFIFO
 [4]=='F') && (ReceiveFIFO[5]=='S') ) {SpeedF=ReceiveNumber;My_EE_Write(SpeedF_M
 em,SpeedF);}[] 
  []
 
 
-Overfull \hbox (267.97809pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (267.97809pt too wide) in paragraph at lines 3315--3315
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]>='0') && (ReceiveFIFO[2
 ]>='0') && (ReceiveFIFO[3]>='0') && (ReceiveFIFO[4]>='0') ) && ( (ReceiveFIFO[1
 ]<='9') && (ReceiveFIFO[2]<='9') && (ReceiveFIFO[3]<='9') && (ReceiveFIFO[4]<='
@@ -1487,112 +1501,112 @@ Overfull \hbox (267.97809pt too wide) in paragraph at lines 3279--3279
  []
 
 
-Overfull \hbox (51.33003pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (51.33003pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='A') ) {AZtarget=ReceiveNumber;OKpending=1;Moving
 =1;GoToTargetA=1;}[] 
  []
 
 
-Overfull \hbox (51.33003pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (51.33003pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='E') && (ReceiveFIFO[7]=='Z') ) {ZEtarget=ReceiveNumber;OKpending=1;Moving
 =1;GoToTargetZ=1;}[] 
  []
 
 
-Overfull \hbox (51.33003pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (51.33003pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='R') && (ReceiveFIFO[7]=='F') ) {FRtarget=ReceiveNumber;OKpending=1;Moving
 =1;GoToTargetF=1;}[] 
  []
 
 
-Overfull \hbox (60.88803pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (60.88803pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='+') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='A') ) {AZtarget=AZ+ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetA=1;}[] 
  []
 
 
-Overfull \hbox (60.88803pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (60.88803pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='+') && (ReceiveFIFO
 [6]=='E') && (ReceiveFIFO[7]=='Z') ) {ZEtarget=ZE+ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetZ=1;}[] 
  []
 
 
-Overfull \hbox (60.88803pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (60.88803pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='+') && (ReceiveFIFO
 [6]=='R') && (ReceiveFIFO[7]=='F') ) {FRtarget=FR+ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetF=1;}[] 
  []
 
 
-Overfull \hbox (60.88802pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (60.88802pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='-') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='A') ) {AZtarget=AZ-ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetA=1;}[] 
  []
 
 
-Overfull \hbox (60.88802pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (60.88802pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='-') && (ReceiveFIFO
 [6]=='E') && (ReceiveFIFO[7]=='Z') ) {ZEtarget=ZE-ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetZ=1;}[] 
  []
 
 
-Overfull \hbox (60.88802pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (60.88802pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='-') && (ReceiveFIFO
 [6]=='R') && (ReceiveFIFO[7]=='F') ) {FRtarget=FR-ReceiveNumber;OKpending=1;Mov
 ing=1;GoToTargetF=1;}[] 
  []
 
 
-Overfull \hbox (83.19003pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (83.19003pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='A') && (ReceiveFIFO[7]=='O') ) {OA=ReceiveNumber;My_EE_Write(OA_Mem,OA>>8
 );My_EE_Write(OA_Mem+1,OA);}[] 
  []
 
 
-Overfull \hbox (83.19003pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (83.19003pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='O') ) {OZ=ReceiveNumber;My_EE_Write(OZ_Mem,OZ>>8
 );My_EE_Write(OZ_Mem+1,OZ);}[] 
  []
 
 
-Overfull \hbox (83.19003pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (83.19003pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='F') && (ReceiveFIFO[7]=='O') ) {OF=ReceiveNumber;My_EE_Write(OF_Mem,OF>>8
 );My_EE_Write(OF_Mem+1,OF);}[] 
  []
 
 
-Overfull \hbox (130.98006pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (130.98006pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='A') && (ReceiveFIFO[7]=='I') ) {Init_DA=ReceiveNumber;My_EE_Write(DA_Mem,
 Init_DA>>8);My_EE_Write(DA_Mem+1,Init_DA);}[] 
  []
 
 
-Overfull \hbox (130.98006pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (130.98006pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='Z') && (ReceiveFIFO[7]=='I') ) {Init_DZ=ReceiveNumber;My_EE_Write(DZ_Mem,
 Init_DZ>>8);My_EE_Write(DZ_Mem+1,Init_DZ);}[] 
  []
 
 
-Overfull \hbox (130.98006pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (130.98006pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( (ReceiveFIFO[5]=='=') && (ReceiveFIFO
 [6]=='F') && (ReceiveFIFO[7]=='I') ) {Init_DF=ReceiveNumber;My_EE_Write(DF_Mem,
 Init_DF>>8);My_EE_Write(DF_Mem+1,Init_DF);}[] 
  []
 
 
-Overfull \hbox (267.97809pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (267.97809pt too wide) in paragraph at lines 3315--3315
 []                \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[1]>='0') && (ReceiveFIFO[2
 ]>='0') && (ReceiveFIFO[3]>='0') && (ReceiveFIFO[4]>='0') ) && ( (ReceiveFIFO[1
 ]<='9') && (ReceiveFIFO[2]<='9') && (ReceiveFIFO[3]<='9') && (ReceiveFIFO[4]<='
@@ -1600,7 +1614,7 @@ Overfull \hbox (267.97809pt too wide) in paragraph at lines 3279--3279
  []
 
 
-Overfull \hbox (280.7221pt too wide) in paragraph at lines 3279--3279
+Overfull \hbox (280.7221pt too wide) in paragraph at lines 3315--3315
 []                    \TU/lmtt/m/n/6 if ( ( (ReceiveFIFO[6]>='0') && (ReceiveFI
 FO[7]>='0') && (ReceiveFIFO[8]>='0') && (ReceiveFIFO[9]>='0') ) && ( (ReceiveFI
 FO[6]<='9') && (ReceiveFIFO[7]<='9') && (ReceiveFIFO[8]<='9') && (ReceiveFIFO[9
@@ -1608,12 +1622,6 @@ FO[6]<='9') && (ReceiveFIFO[7]<='9') && (ReceiveFIFO[8]<='9') && (ReceiveFIFO[9
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[39]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [41]
@@ -1656,4 +1664,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [54]
-Unde
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[57] [58] (./LAP_tracker_manual.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 28087 strings out of 479139
+ 517029 string characters out of 5872647
+ 1046566 words of memory out of 5000000
+ 47284 multiletter control sequences out of 15000+600000
+ 407905 words of font info for 91 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 98i,9n,125p,1154b,999s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on LAP_tracker_manual.pdf (58 pages).
