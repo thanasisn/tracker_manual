@@ -1,0 +1,44 @@
+\contentsline {section}{Εισαγωγή.}{5}{section*.4}%
+\contentsline {section}{\numberline {1}Ο ηλιοστάτης του Εργαστηρίου Φυσικής της Ατμόσφαιρας.}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Περιγραφή tracker (ηλιοστάτη).}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Επικοινωνία με τον tracker.}{6}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Επικοινωνία με τον Tracker σε περιβάλλον MatLab}{7}{subsubsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.3}Σειρά σύνδεσης.}{9}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Λειτουργία - Προγραμματισμός tracker.}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Γενικές πληροφορίες}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Παράμετροι επικοινωνίας με τον microcontroller του tracker.}{11}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Εντολές tracker.}{11}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Μορφή εντολών (format).}{11}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Μηδενισμός του βήματος του microcontroller.}{11}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Κίνηση των αξόνων.}{12}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Resetting USB/serial interface σε GNU/Linux.}{14}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Αποσύνδεση των αντίστοιχων module/firmware από τον kernel.}{14}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Αποσύνδεση της συσκευής από το σύστημα.}{14}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Αποσύνδεση του mountpoint από το σύστημα (untested).}{14}{subsubsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.5}Προγραμματισμός}{15}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Python}{15}{subsubsection.2.5.1}%
+\contentsline {paragraph}{\numberline {2.5.1.1}\texttt {sun\_tracker\_main.py}}{15}{paragraph.2.5.1.1}%
+\contentsline {subparagraph}{\numberline {2.5.1.1.1}Απαραίτητα και Βοηθητικά προγράμματα}{16}{subparagraph.2.5.1.1.1}%
+\contentsline {subparagraph}{\numberline {2.5.1.1.2}Επιγραμματικά οι λειτουργίες του προγράμματος.}{16}{subparagraph.2.5.1.1.2}%
+\contentsline {paragraph}{\numberline {2.5.1.2}\texttt {sun\_vector\_astropy.py} και \texttt {sun\_vector\_ephem.py}}{18}{paragraph.2.5.1.2}%
+\contentsline {paragraph}{\numberline {2.5.1.3}\texttt {param\_location.py}}{18}{paragraph.2.5.1.3}%
+\contentsline {subsubsection}{\numberline {2.5.2}\texttt {tracker\_functions.py}}{18}{subsubsection.2.5.2}%
+\contentsline {paragraph}{\numberline {2.5.2.1}\texttt {tracker\_sighting\_no\_ui\_tcp-port.py}}{18}{paragraph.2.5.2.1}%
+\contentsline {section}{\numberline {3}Ηλεκτρικά - Μηχανικά Χαρακτηριστικά.}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Κινητήρες tracker (57SH56-4AM)}{19}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Κινητήρες filter wheel (G11)}{20}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Τροφοδοσία ισχύος}{22}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Εγκατάσταση του tracker.}{23}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Ρύθμιση αζιμούθιου άξονα.}{23}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Ρύθμιση ζενίθιου άξονα.}{24}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Οριζοντίωση του ηλιοστάτη (leveling).}{24}{subsection.4.3}%
+\contentsline {section}{\numberline {A}CHP-1 Quick startup (on `radmon' computer).}{26}{appendix.A}%
+\contentsline {subsection}{Σύνδεση του tracker.}{26}{section*.8}%
+\contentsline {subsection}{Reset tracker.}{26}{section*.9}%
+\contentsline {subsection}{Εκκίνηση του προγράμματος ελέγχου}{26}{section*.10}%
+\contentsline {subsection}{Διόπτευση (sighting)}{26}{section*.11}%
+\contentsline {subsection}{Σύνδεση πολυμέτρου `Protek 506'}{26}{section*.12}%
+\contentsline {subsection}{Εκκίνηση προγράμματος πολυμέτρου}{27}{section*.13}%
+\contentsline {subsection}{Σε περίπτωση διακοπής ρεύματος.}{27}{section*.14}%
+\contentsline {subsection}{Scheduled script description}{27}{section*.15}%
+\contentsline {section}{\numberline {B}Tracker microcontroler source code}{27}{appendix.B}%
