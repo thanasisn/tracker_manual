@@ -48,7 +48,7 @@ opts_chunk$set(out.width = '90%', fig.align = 'center')
 \vfill
 \  
 
->  Για διορθώσεις και προσθήκες επικοινωνήστε με τον [Νάτση Αθανάσιο](mailto:natsisthanasis@gmail.com).    
+>  Για διορθώσεις και προσθήκες επικοινωνήστε με τον [Νάτση Αθανάσιο](mailto:natsisphysicist@gmail.com).    
 
 \  
 \vfill
