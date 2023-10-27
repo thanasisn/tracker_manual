@@ -188,6 +188,22 @@ Table: (\#tab:trackercomexamp) Παραδείγματα εντολών tracker.
 
 \normalsize
 
+## Permition to access USB serial σε GNU/Linux.
+
+Με σύνδεση USB-to-serial, η συσκευή φαίνεται ως `/dev/ttyUSB0`. Ως συσκευή συστήματος,
+χρειάζεται να έχετε τα κατάλληλα δικαιομάτα στο σύστημα για να μπορείται να την χρησιμοποιήσεται.
+
+
+
+```{bash}
+## add user to dialout group (needs reboot)
+sudo usermod -a -G dialout $USER
+## allow anyone to use the device (less secure, not permenent)
+sudo chmod 666 /dev/ttyUSB0 
+```
+
+
+
 ## Resetting USB/serial interface σε GNU/Linux.
 
 Κάποιες ιδέες και προτάσεις για το πως μπορεί να γίνει επανασύνδεση της επικοινωνίας χωρίς να αποσυνδεθεί η φυσική σύνδεση. Έχουν παραχθεί και τα αντίστοιχα 'bash script' που μπορούν να βρουν την κατάλληλη USB συσκευή και να εκτελέσουν τις παρακάτω ενέργειες.
