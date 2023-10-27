@@ -36,7 +36,7 @@
             **data bits**  **8** (bytesize)
                **parity**  **none**
             **stop bits**  **1**
-          **row control**  **none**
+         **Flow control**  **none**
    **timeout** (optional)  90 sec
 -------------------------  ----------------------
 
@@ -198,7 +198,7 @@ Table: (\#tab:trackercomexamp) Παραδείγματα εντολών tracker.
 ```{bash}
 ## add user to dialout group (needs reboot)
 sudo usermod -a -G dialout $USER
-## allow anyone to use the device (less secure, not permenent)
+## allow anyone to use the device (less secure, not permanent)
 sudo chmod 666 /dev/ttyUSB0 
 ```
 
