@@ -1,4 +1,4 @@
-﻿
+
 \newpage
 
 # Εγκατάσταση του tracker. {#trackerinstallation}
@@ -30,7 +30,7 @@ knitr::include_graphics("figure/compass.png")
 
 
 ```{r trackerleveling, echo=F, fig.cap="Οριζοντίωση του tracker. Φαίνεται ο tracker εγκατεστημένος σε ρυθμιζόμενη βάση (τρίποδο) και η αεροστάθμη (αλφάδι) με την οποία ελέγχεται η οριζοντίωση.", out.width = '80%', fig.env='img'}
-knitr::include_graphics("/home/athan/Aerosols/Photos/EL/20160307_Tracker_CHP1_CCD/P1110530.JPG")
+knitr::include_graphics("/home/athan/Aerosols/Photos/EL/20160307_Tracker_CHP1_CCD/20160307_124618.JPG")
 ```
 
 Θα ρυθμίσουμε κάθε σημείο ελευθερίας του επιπέδου (εδώ, κάθε πόδι της βάσης) διαδοχικά, μέχρι το επίπεδο του οργάνου να συμφωνεί με το επίπεδο αναφοράς της στάθμης. Σε όλη τη διαδικασία δεν πρέπει να αλλάξουμε τη θέση του οργάνου της στάθμης πάνω στο όργανο.

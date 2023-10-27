@@ -11,19 +11,20 @@
 \contentsline {subsubsection}{\numberline {2.3.1}Μορφή εντολών (format).}{11}{subsubsection.2.3.1}%
 \contentsline {subsubsection}{\numberline {2.3.2}Μηδενισμός του βήματος του microcontroller.}{11}{subsubsection.2.3.2}%
 \contentsline {subsubsection}{\numberline {2.3.3}Κίνηση των αξόνων.}{12}{subsubsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.4}Resetting USB/serial interface σε GNU/Linux.}{14}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Αποσύνδεση των αντίστοιχων module/firmware από τον kernel.}{14}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Αποσύνδεση της συσκευής από το σύστημα.}{14}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Αποσύνδεση του mountpoint από το σύστημα (untested).}{14}{subsubsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.5}Προγραμματισμός}{15}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Python}{15}{subsubsection.2.5.1}%
-\contentsline {paragraph}{\numberline {2.5.1.1}\texttt {sun\_tracker\_main.py}}{15}{paragraph.2.5.1.1}%
-\contentsline {subparagraph}{\numberline {2.5.1.1.1}Απαραίτητα και Βοηθητικά προγράμματα}{16}{subparagraph.2.5.1.1.1}%
-\contentsline {subparagraph}{\numberline {2.5.1.1.2}Επιγραμματικά οι λειτουργίες του προγράμματος.}{16}{subparagraph.2.5.1.1.2}%
-\contentsline {paragraph}{\numberline {2.5.1.2}\texttt {sun\_vector\_astropy.py} και \texttt {sun\_vector\_ephem.py}}{18}{paragraph.2.5.1.2}%
-\contentsline {paragraph}{\numberline {2.5.1.3}\texttt {param\_location.py}}{18}{paragraph.2.5.1.3}%
-\contentsline {subsubsection}{\numberline {2.5.2}\texttt {tracker\_functions.py}}{18}{subsubsection.2.5.2}%
-\contentsline {paragraph}{\numberline {2.5.2.1}\texttt {tracker\_sighting\_no\_ui\_tcp-port.py}}{18}{paragraph.2.5.2.1}%
+\contentsline {subsection}{\numberline {2.4}Permissions to access USB serial σε GNU/Linux.}{14}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Resetting USB/serial interface σε GNU/Linux.}{14}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Αποσύνδεση των αντίστοιχων module/firmware από τον kernel.}{14}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Αποσύνδεση της συσκευής από το σύστημα.}{15}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Αποσύνδεση του mountpoint από το σύστημα (untested).}{15}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.6}Προγραμματισμός}{15}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Python}{15}{subsubsection.2.6.1}%
+\contentsline {paragraph}{\numberline {2.6.1.1}\texttt {sun\_tracker\_main.py}}{16}{paragraph.2.6.1.1}%
+\contentsline {subparagraph}{\numberline {2.6.1.1.1}Απαραίτητα και Βοηθητικά προγράμματα}{16}{subparagraph.2.6.1.1.1}%
+\contentsline {subparagraph}{\numberline {2.6.1.1.2}Επιγραμματικά οι λειτουργίες του προγράμματος.}{16}{subparagraph.2.6.1.1.2}%
+\contentsline {paragraph}{\numberline {2.6.1.2}\texttt {sun\_vector\_astropy.py} και \texttt {sun\_vector\_ephem.py}}{18}{paragraph.2.6.1.2}%
+\contentsline {paragraph}{\numberline {2.6.1.3}\texttt {param\_location.py}}{18}{paragraph.2.6.1.3}%
+\contentsline {subsubsection}{\numberline {2.6.2}\texttt {tracker\_functions.py}}{18}{subsubsection.2.6.2}%
+\contentsline {paragraph}{\numberline {2.6.2.1}\texttt {tracker\_sighting\_no\_ui\_tcp-port.py}}{18}{paragraph.2.6.2.1}%
 \contentsline {section}{\numberline {3}Ηλεκτρικά - Μηχανικά Χαρακτηριστικά.}{19}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Κινητήρες tracker (57SH56-4AM)}{19}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Κινητήρες filter wheel (G11)}{20}{subsection.3.2}%

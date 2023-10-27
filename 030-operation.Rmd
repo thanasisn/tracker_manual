@@ -122,7 +122,7 @@ Table: (\#tab:trackercomoper) Παράμετροι ελέγχου (operators/mod
 ---------------------------------------------------------------------------------------------
                  Εντολές  Μέγεθος
 ------------------------  -------------------------------------------------------------------
-   **`AZ@####`**\<cr\>    Αζιμούθιο βήμα
+   **AZ@\#\#\#\#**\<cr\>    Αζιμούθιο βήμα
 
    **ZE@\#\#\#\#**\<cr\>  Ζενίθιο βήμα
 
@@ -188,20 +188,17 @@ Table: (\#tab:trackercomexamp) Παραδείγματα εντολών tracker.
 
 \normalsize
 
-## Permition to access USB serial σε GNU/Linux.
+## Permissions to access USB serial σε GNU/Linux.
 
 Με σύνδεση USB-to-serial, η συσκευή φαίνεται ως `/dev/ttyUSB0`. Ως συσκευή συστήματος,
-χρειάζεται να έχετε τα κατάλληλα δικαιομάτα στο σύστημα για να μπορείται να την χρησιμοποιήσεται.
+συνήθως χρειάζεται να έχετε τα κατάλληλα δικαιώματα στο σύστημα για να μπορείτε να την χρησιμοποιήσετε.
 
-
-
-```{bash}
-## add user to dialout group (needs reboot)
+```{bash eval=F}
+## Add current user to dialout group (needs reboot)
 sudo usermod -a -G dialout $USER
-## allow anyone to use the device (less secure, not permanent)
+## Allow anyone to use the device (less secure, not permanent)
 sudo chmod 666 /dev/ttyUSB0 
 ```
-
 
 
 ## Resetting USB/serial interface σε GNU/Linux.
@@ -233,8 +230,8 @@ sudo sh -c "echo 1 > /sys/bus/usb/devices/1-1/authorized"
 Αν και δεν έχουν δοκιμαστεί, οι εντολές αυτής της μορφής μπορούν να αποσυνδέσουν και να επανασυνδέσουν την διαδρομή αρχείου που αντιστοιχεί στην συσκευή και επομένως να ανανεώσουν την επικοινωνία.
 
 ```{bash eval=F} 
-unbind ...
-bind   ...
+unbind /dev/ttyUSB0
+bind   /dev/ttyUSB0
 ```
 
 ## Προγραμματισμός
