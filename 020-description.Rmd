@@ -34,14 +34,16 @@ knitr::include_graphics("/home/athan/Aerosols/Photos/EL/20160615_Tracker2/201606
 Η σειριακή επικοινωνία μπορεί να επιτευχθεί με άμεση σύνδεση του μικροελεγκτή σε σειριακή θύρα του υπολογιστή. Είτε, μέσω μετατροπέα USB UART (adapter usb to serial) σε θύρα USB του ηλεκτρονικού υπολογιστή (Σχήμα \@ref(fig:trackercon)). Στην περίπτωσή μας χρησιμοποιούμε τον μετατροπέα 'FT232 USB-Serial (UART) IC'. Υπάρχει το ενδεχόμενο κάποιοι μετατροπείς UART να μην επιτυγχάνουν σωστή επικοινωνία, λόγω των τεχνικών τους χαρακτηριστικών.
 
 
-```{r echo=F}
+```{r echo=F, include=F, eval=F}
+## create source file of dot image and build it
 system('echo \'
 digraph trackercon {
 
-  # Intialization of graph attributes
+  # Initialization of graph attributes
   graph [align   = center,
          layout  = dot,
          rankdir = LR,
+         margin  = 0,
          dpi     = 400]
 
   # Initialization of node attributes
@@ -49,19 +51,28 @@ digraph trackercon {
         fontsize = 10,
         margin = 0.001]
 
-    " Computer " -> " USB to RS-232 " -> " Power brick " -> " microcontroler " [dir="both"]
+    " Computer " -> " USB to RS-232 " -> " Power supply " -> " microcontroller " [dir="both"]
 
     subgraph cluster { label="Tracker assembly"
-        " microcontroler " -> "step motors"
+        margin = 14;
+        " microcontroller " -> "step motors"
     }
 }
 \' > figure/trackercon.dot')
-#system('dot -Tpdf graph.dot -o graph.pdf')
+system('dot -Tpdf figure/trackercon.dot -o figure/trackercon.pdf')
 system('dot -Tpng figure/trackercon.dot -o figure/trackercon.png')
 ```
-```{r trackercon, echo=F, fig.cap="Διάγραμμα επικοινωνίας του tracker με τον υπολογιστή."}
-knitr::include_graphics("figure/trackercon.png")
-```
+
+\begin{figure}[h!]
+  \centering
+     \includegraphics[width=.90\linewidth]{./figure/trackercon}
+  \caption
+  [Επικοινωνία ελέγχου ηλιοστάτη]
+  {
+    Διάγραμμα επικοινωνίας του ηλιοστάτη με τον υπολογιστή ελέγχου.
+  }\label{fig:trackercon}
+\end{figure}
+
 
 ### Επικοινωνία με τον Tracker σε περιβάλλον MatLab {#tracker_matlab}
 
@@ -106,20 +117,23 @@ pause(time_delay)
 Με τις παραπάνω εντολές, ο Tracker θα απαντήσει με την θέση σε βήματα του Αζιμούθιου άξονα (πχ AZ:6000<cr>) στην μεταβλητή `answer`, τον αριθμό των bytes που στάλθηκαν (8 στην συγκεκριμένη περίπτωση) στην μεταβλητή `bytes` και τυχόν μηνύματα σφάλματος κατά την σειριακή επικοινωνία στην μεταβλητή `msg_err`. Άλλες χρήσιμες εντολές και παράμετροι για τον έλεγχο και την ορθή επικοινωνία με τον Tracker είναι η `Tracker.SerialPort.BytesAvailable`, η οποία επιστρέφει τον αριθμό των bytes που υπάρχουν διαθέσιμα στον buffer του microcontroller, η `flushinput(Tracker.SerialPort)` και η `flushoutput(Tracker.SerialPort)` που αδειάζουν τον Input και Output buffer αντίστοιχα.
 
 
+#### Συνδεσμολογία {#tracker_connection}
 
-## Σειρά σύνδεσης. {#tracker_connection}
+Έχει διαπιστωθεί εμπειρικά, ότι η σειρά της συνδεσμολογίας του ηλιοστάτη παίζει ρόλο
+στην ορθή ενεργοποίηση των επιμέρους στοιχείων και την επιτυχή λειτουργία του
+ηλιοστάτη. Για την επιτυχή επικοινωνία, προτείνουμε την αλληλουχία σύνδεσης (1-2-3-4)
+ή (1-4-3-2) όπως φαίνεται στο Σχήμα\nobreakspace{}\@ref(fig:trackercomm).
 
-Μετά από δοκιμές όλων των δυνατών συνδυασμών της σειρά σύνδεσης. Διαπιστώσαμε ότι για την επιτυχή επικοινωνία πρέπει να έχει γίνει η σύνδεση (4) και μετά να ακολουθηθεί η σειρά των συνδέσεων (1-2-3) ή (3-2-1) όπως φαίνονται στο Σχήμα \@ref(fig:trackercomm).
-
-
-```{r echo=F}
+```{r echo=F, include=F, eval=F}
+## create source file of dot image and build it
 system('echo \'
 digraph trackercomm {
 
-  # Intialization of graph attributes
+  # Initialization of graph attributes
   graph [align   = center,
          layout  = dot,
          rankdir = LR,
+         margin  = 0,
          dpi     = 400]
 
   # Initialization of node attributes
@@ -127,13 +141,13 @@ digraph trackercomm {
         fontsize = 10,
         margin = 0.001]
 
-    " Computer "      -> " USB to RS-232 " [dir="both",label="4"];
-    " Power cable "   -> " Control box "   [dir="both",label="1"];
-    " USB to RS-232 " -> " Control box "   [dir="both",label="3"];
-    " Control box "   -> " Tracker "       [dir="both",label="2"]; 
+    " Computer "      -> " USB to RS-232 " [dir="both",label="1"];
+    " Power source "  -> " Power supply "  [dir="both",label="4"];
+    " USB to RS-232 " -> " Power supply "  [dir="both",label="2"];
+    " Power supply "  -> " Tracker "       [dir="both",label="3"];
 }
 \' > figure/trackercomm.dot')
-#system('dot -Tpdf graph.dot -o graph.pdf')
+system('dot -Tpdf figure/trackercomm.dot -o figure/trackercomm.pdf')
 system('dot -Tpng figure/trackercomm.dot -o figure/trackercomm.png')
 ```
 ```{r trackercomm, echo=F, fig.cap="Διάγραμμα συνδέσεων του tracker, κατάλληλη σειρά σύνδεσης (1-2-3) ή (3-2-1)."}
