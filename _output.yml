@@ -1,7 +1,5 @@
 
 bookdown::gitbook:
-  includes:
-    in_header: google_tracker.html
   css: style.css
   config:
     toc:
@@ -9,7 +7,6 @@ bookdown::gitbook:
         <p> </p>
         <div class="logos" align="center"><img src="files/P1110595e2.png" width="80px" align="center"></div>
         <li align="center">LAP tracker manual</li>
-        <li align="center"><a href="mailto:natsisthanasis@gmail.com">mail: Natsis Thanasis</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: null
@@ -39,4 +36,4 @@ bookdown::pdf_book:
   keep_tex:         false
   keep_md:          false
 
-bookdown::word_document2: default
+# bookdown::word_document2: default
