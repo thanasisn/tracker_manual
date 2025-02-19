@@ -5,7 +5,7 @@ bookdown::gitbook:
     toc:
       before: |
         <p> </p>
-        <div class="logos" align="center"><img src="files/P1110595e2.png" width="80px" align="center"></div>
+        <!-- <div class="logos" align="center"><img src="files/P1110595e2.png" width="80px" align="center"></div> -->
         <li align="center">LAP tracker manual</li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -23,7 +23,6 @@ bookdown::gitbook:
   keep_md:          false
   number_sections:  false
   download:         ["pdf"]
-  #download: [["Aerosols.pdf", "PDF"], ["Aerosols.epub", "EPUB"]]
 
 bookdown::pdf_book:
   template:         default_template.tex
