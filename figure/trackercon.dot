@@ -1,10 +1,11 @@
 
 digraph trackercon {
 
-  # Intialization of graph attributes
+  # Initialization of graph attributes
   graph [align   = center,
          layout  = dot,
          rankdir = LR,
+         margin  = 0,
          dpi     = 400]
 
   # Initialization of node attributes
@@ -12,10 +13,11 @@ digraph trackercon {
         fontsize = 10,
         margin = 0.001]
 
-    " Computer " -> " USB to RS-232 " -> " Power brick " -> " microcontroler " [dir="both"]
+    " Computer " -> " USB to RS-232 " -> " Power supply " -> " microcontroller " [dir="both"]
 
     subgraph cluster { label="Tracker assembly"
-        " microcontroler " -> "step motors"
+        margin = 14;
+        " microcontroller " -> "step motors"
     }
 }
 
