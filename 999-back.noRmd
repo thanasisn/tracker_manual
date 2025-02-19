@@ -1,41 +1,29 @@
 
-\newpage 
+\newpage
 
-\  
+\
 
-\  
+\
 \vfill
-\  
+\
 
 ----------------------------------------------------------------------------------------------------
-    Η εργασία αυτή διανέμεται υπό την άδεια: 
-    
-    **Creative Commons - Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 4.0 Διεθνές.** [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-    
-    Η στοιχειοθεσία έγινε με: [bookdown](https://bookdown.org/), [Rmarkdown](http://rmarkdown.rstudio.com/), [Pandoc](https://pandoc.org/), [\XeTeX](http://xetex.sourceforge.net/).
-    
-    Τελευταία τροποποίηση: Νάτσης Αθανάσιος \ \ `r Sys.Date()`
-    
-    Build: `r version=as.numeric(read.table("build.version",nrows=1))+1; write.table(version,"build.version",row.names=F,col.names=F); paste0(as.hexmode(as.numeric(format(Sys.Date(),"%Y"))),as.hexmode(as.numeric(format(Sys.Date(),"%j"))),as.hexmode(version)) `
+    Build: `r version=as.numeric(read.table("build.version",nrows=1))+1; write.table(version,"build.version",row.names=F,col.names=F); paste0(as.hexmode(as.numeric(format(Sys.Date(),"%Y"))),as.hexmode(as.numeric(format(Sys.Date(),"%j"))),as.hexmode(version))`
 ----------------------------------------------------------------------------------------------------
 
-\  
-\vfill \  
-\  
+\
+\vfill \
+\
 
---------------------------------------------------------------------------------------------------------------
-   Για διορθώσεις και προσθήκες επικοινωνήστε με τον [Νάτση  Αθανάσιο](mailto:natsisthanasis@gmail.com).    
---------------------------------------------------------------------------------------------------------------
-
-\  
-\vfill \  
-\  
+\
+\vfill \
+\
 
 \centering
 
 **\* \* ΤΕΛΟΣ ΟΔΗΓΟΥ \* \***
 
-\  
-\vfill \  
-\  
+\
+\vfill \
+\
 
