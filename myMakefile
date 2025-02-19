@@ -1,0 +1,18 @@
+
+## find all sources
+SOURCES  = myMakefile $(wildcard *.Rmd) $(wildcard *.yml) $(wildcard *.tex)
+
+.DEFAULT_GOAL := all
+
+all: site
+
+## Create site and pdf and move it to published location
+site: ../thanasisn.github.io/Tracker_manual/LAP_tracker_manual.pdf
+../thanasisn.github.io/Tracker_manual/LAP_tracker_manual.pdf: $(SOURCES)
+	@Rscript -e "rmarkdown::render_site(encoding = 'UTF-8')"
+	@rm -rf "../thanasisn.github.io/Tracker_manual"
+	@mv -v "_book" "../thanasisn.github.io/Tracker_manual"
+	@echo $?
+
+
+

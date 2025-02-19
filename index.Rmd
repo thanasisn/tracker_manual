@@ -1,21 +1,18 @@
 ---
 title:           "Εγχειρίδιο λειτουργίας ηλιοστάτη."
-author:          "Νάτσης Αθανάσιος"
+author:          "Thanasisn [github.com/thanasisn](https://github.com/thanasisn)"
 date:            "`r Sys.Date()`"
 site:            bookdown::bookdown_site
-output:          bookdown::gitbook
 documentclass:   article
 url:             https://thanasisn.github.io/
 favicon:         files/P1110595e2.png
 urlcolor:        blue
 classoption:     [a4paper,twoside,titlepage,11pt]
-#bibliography:   [bib/thesis.bib]
 biblio-style:    apalike
 link-citations:  yes
 colorlinks:      yes
 lot:             true
 lof:             true
-# always_allow_html: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -30,7 +27,7 @@ opts_chunk$set(out.width = '90%', fig.align = 'center')
 \vfill
 \  
 
->  **Τα δεδομένα αυτά είναι υπό επεξεργασία, και μπορούν να αφαιρεθούν οποιαδήποτε στιγμή από το διαδίκτυο.**
+>  Αρχείο [pdf](https://thanasisn.github.io/Tracker_manual/LAP_tracker_manual.pdf)
 
 \  
 \vfill
@@ -47,11 +44,6 @@ opts_chunk$set(out.width = '90%', fig.align = 'center')
 \vfill
 \  
 
->  Για διορθώσεις και προσθήκες επικοινωνήστε με τον [Νάτση Αθανάσιο](mailto:natsisphysicist@gmail.com).
-
-\  
-\vfill
-\  
 
 **_Σημείωση:_ Ο πηγαίος κώδικας (source code) που παρατίθεται εδώ είναι ένα
 παράδειγμα εφαρμογής κάποιων τεχνικών. Σε περίπτωση που θέλετε να τον
