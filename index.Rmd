@@ -1,5 +1,5 @@
 ---
-title:           "Εγχειρίδιο λειτουργίας ηλιοστάτη."
+title:           "Εγχειρίδιο λειτουργίας ηλιοστάτη"
 author:          "Thanasisn [github.com/thanasisn](https://github.com/thanasisn)"
 date:            "`r Sys.Date()`"
 site:            bookdown::bookdown_site

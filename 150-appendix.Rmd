@@ -4,7 +4,7 @@
 `r if(!knitr:::is_latex_output()) '# (APPENDIX) Appendix {-#appendix}'`
 
 
-CHP-1 Quick startup (on 'radmon' computer).
+CHP-1 Quick startup (on 'radmon' computer)
 ===========================================
 
 <!-- \vspace{-1.5\baselineskip}  -->
